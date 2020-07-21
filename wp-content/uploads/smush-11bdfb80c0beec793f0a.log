@@ -1,0 +1,1367 @@
+[2020-07-01 15:55:07 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-07-01 15:55:08 : INFO] - 
+ 
+[2020-07-01 15:55:08 : INFO] - Header for logs at time:  Wed, 01 Jul 2020 15:55:08 +0000 on https://dsswebdevelops.in 
+[2020-07-01 15:55:08 : INFO] - WP: 5.4.2 
+[2020-07-01 15:55:08 : INFO] - PHP: 7.2.29 (litespeed, Linux lt-bnk-web337.main-hosting.eu 3.10.0-962.3.2.lve1.5.26.3.el7.x86_64 #1 SMP Wed Aug 14 08:29:59 EDT 2019 x86_64) 
+[2020-07-01 15:55:08 : INFO] - MySQL: 5.5.5 
+[2020-07-01 15:55:08 : INFO] - WPLANG: en_US 
+[2020-07-01 15:55:08 : INFO] - Server: LiteSpeed 
+[2020-07-01 15:55:08 : INFO] - Outbound connections: N 
+[2020-07-01 15:55:08 : INFO] - safe_mode: 0 
+[2020-07-01 15:55:08 : INFO] - max_execution_time: 60 
+[2020-07-01 15:55:08 : INFO] - memory_limit: 128M (used: 11.4M | 10M) 
+[2020-07-01 15:55:08 : INFO] - multisite: N 
+[2020-07-01 15:55:08 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-07-01 15:55:10 : INFO] - A total of 111 tasks of type smush found and will be processed in this iteration 
+[2020-07-01 15:55:10 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:55:10 
+[2020-07-01 15:55:10 : INFO] - Semaphore lock (smush) complete 
+[2020-07-01 15:55:10 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2020-07-01 15:55:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1358, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:10 : INFO] - 95 
+[2020-07-01 15:55:10 : INFO] - Backing up the original image - 2020/06/audience-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1358, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:11 : INFO] - 95 
+[2020-07-01 15:55:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1358, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:11 : INFO] - 95 
+[2020-07-01 15:55:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1358, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:11 : INFO] - 95 
+[2020-07-01 15:55:11 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:11 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/audience.jpg.The file was compressed from 205.43 KB to 117.88 KB saving 42.62 percent using WP-Optimize 
+[2020-07-01 15:55:11 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2020-07-01 15:55:11 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2020-07-01 15:55:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1357, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:11 : INFO] - 95 
+[2020-07-01 15:55:12 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1357, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:12 : INFO] - 95 
+[2020-07-01 15:55:13 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1357, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:13 : INFO] - 95 
+[2020-07-01 15:55:13 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/guitarist.jpg.The file was compressed from 12.47 KB to 12.47 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:13 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2020-07-01 15:55:13 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2020-07-01 15:55:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1356, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:13 : INFO] - 95 
+[2020-07-01 15:55:14 : INFO] - Backing up the original image - 2020/06/placeholder-1-updraft-pre-smush-original.png 
+[2020-07-01 15:55:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1356, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:14 : INFO] - 95 
+[2020-07-01 15:55:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1356, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:14 : INFO] - 95 
+[2020-07-01 15:55:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1356, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:14 : INFO] - 95 
+[2020-07-01 15:55:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1356, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:15 : INFO] - 95 
+[2020-07-01 15:55:15 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:15 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/placeholder-1.png.The file was compressed from 6.00 KB to 5.03 KB saving 16.19 percent using WP-Optimize 
+[2020-07-01 15:55:15 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2020-07-01 15:55:15 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2020-07-01 15:55:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1354, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:15 : INFO] - 95 
+[2020-07-01 15:55:16 : INFO] - Backing up the original image - 2020/06/drumer-concert-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1354, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:16 : INFO] - 95 
+[2020-07-01 15:55:16 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1354, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:16 : INFO] - 95 
+[2020-07-01 15:55:16 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/drumer-concert.jpg.The file was compressed from 68.42 KB to 42.83 KB saving 37.4 percent using WP-Optimize 
+[2020-07-01 15:55:16 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2020-07-01 15:55:16 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2020-07-01 15:55:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1347, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:16 : INFO] - 95 
+[2020-07-01 15:55:17 : INFO] - Backing up the original image - 2020/06/sms-marketing-services-500x500-1-updraft-pre-smush-original.png 
+[2020-07-01 15:55:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1347, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:17 : INFO] - 95 
+[2020-07-01 15:55:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1347, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:17 : INFO] - 95 
+[2020-07-01 15:55:18 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/sms-marketing-services-500x500-1.png.The file was compressed from 166.56 KB to 44.88 KB saving 73.05 percent using WP-Optimize 
+[2020-07-01 15:55:18 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2020-07-01 15:55:18 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2020-07-01 15:55:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1346, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:18 : INFO] - 95 
+[2020-07-01 15:55:18 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1346, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:18 : INFO] - 95 
+[2020-07-01 15:55:18 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/bulksms-300x290-1.jpg.The file was compressed from 14.79 KB to 14.79 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:18 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2020-07-01 15:55:18 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2020-07-01 15:55:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1345, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:18 : INFO] - 95 
+[2020-07-01 15:55:19 : INFO] - Backing up the original image - 2020/06/Bulk-SMS-Marketing-in-India-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1345, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:19 : INFO] - 95 
+[2020-07-01 15:55:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1345, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:20 : INFO] - 95 
+[2020-07-01 15:55:20 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1345, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:20 : INFO] - 95 
+[2020-07-01 15:55:20 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1345, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:20 : INFO] - 95 
+[2020-07-01 15:55:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1345, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:20 : INFO] - 95 
+[2020-07-01 15:55:21 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/Bulk-SMS-Marketing-in-India.jpg.The file was compressed from 103.50 KB to 103.50 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:21 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2020-07-01 15:55:21 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2020-07-01 15:55:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1344, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:21 : INFO] - 95 
+[2020-07-01 15:55:21 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1344, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:21 : INFO] - 95 
+[2020-07-01 15:55:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1344, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:22 : INFO] - 95 
+[2020-07-01 15:55:22 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/yoga-image-03.jpg.The file was compressed from 51.52 KB to 51.52 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:22 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2020-07-01 15:55:22 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2020-07-01 15:55:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1343, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:22 : INFO] - 95 
+[2020-07-01 15:55:23 : INFO] - Backing up the original image - 2020/06/yoga-image-02-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1343, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:23 : INFO] - 95 
+[2020-07-01 15:55:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1343, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:23 : INFO] - 95 
+[2020-07-01 15:55:23 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/yoga-image-02.jpg.The file was compressed from 28.32 KB to 28.17 KB saving 0.52 percent using WP-Optimize 
+[2020-07-01 15:55:23 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2020-07-01 15:55:23 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2020-07-01 15:55:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1342, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:23 : INFO] - 95 
+[2020-07-01 15:55:24 : INFO] - Backing up the original image - 2020/06/publication-image-03-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1342, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:24 : INFO] - 95 
+[2020-07-01 15:55:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1342, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:24 : INFO] - 95 
+[2020-07-01 15:55:24 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/publication-image-03.jpg.The file was compressed from 14.79 KB to 14.79 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:24 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2020-07-01 15:55:24 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2020-07-01 15:55:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1341, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:24 : INFO] - 95 
+[2020-07-01 15:55:24 : INFO] - Backing up the original image - 2020/06/divider-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:55:24 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/divider-free-img.png.The file was compressed from 3.08 KB to 3.04 KB saving 1.14 percent using WP-Optimize 
+[2020-07-01 15:55:24 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2020-07-01 15:55:24 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2020-07-01 15:55:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1340, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:24 : INFO] - 95 
+[2020-07-01 15:55:25 : INFO] - Backing up the original image - 2020/06/banner1-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1340, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:25 : INFO] - 95 
+[2020-07-01 15:55:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1340, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:25 : INFO] - 95 
+[2020-07-01 15:55:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1340, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:26 : INFO] - 95 
+[2020-07-01 15:55:26 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/banner1.jpg.The file was compressed from 186.86 KB to 75.92 KB saving 59.37 percent using WP-Optimize 
+[2020-07-01 15:55:26 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2020-07-01 15:55:26 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2020-07-01 15:55:26 : INFO] - Task with ID 13 and type (smush) failed with error code invalid_file_type - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/pricings.svg - cannot be optimized, it has an invalid file type 
+[2020-07-01 15:55:26 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2020-07-01 15:55:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:26 : INFO] - 95 
+[2020-07-01 15:55:27 : INFO] - Backing up the original image - 2020/06/lock-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:55:27 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/lock-free-img.png.The file was compressed from 1.76 KB to 1.76 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:27 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2020-07-01 15:55:27 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2020-07-01 15:55:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1310, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:27 : INFO] - 95 
+[2020-07-01 15:55:27 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:27 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2020-07-01 15:55:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1311, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:27 : INFO] - 95 
+[2020-07-01 15:55:27 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:27 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2020-07-01 15:55:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:27 : INFO] - 95 
+[2020-07-01 15:55:27 : INFO] - Backing up the original image - 2020/06/globe-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:55:27 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/globe-free-img.png.The file was compressed from 3.34 KB to 3.34 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:27 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2020-07-01 15:55:27 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2020-07-01 15:55:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1308, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:27 : INFO] - 95 
+[2020-07-01 15:55:29 : INFO] - Backing up the original image - 2020/06/banner-03-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1308, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:29 : INFO] - 95 
+[2020-07-01 15:55:29 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1308, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:29 : INFO] - 95 
+[2020-07-01 15:55:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1308, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:30 : INFO] - 95 
+[2020-07-01 15:55:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1308, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:30 : INFO] - 95 
+[2020-07-01 15:55:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1308, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:30 : INFO] - 95 
+[2020-07-01 15:55:31 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:31 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/banner-03.jpg.The file was compressed from 236.52 KB to 228.02 KB saving 3.59 percent using WP-Optimize 
+[2020-07-01 15:55:31 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2020-07-01 15:55:31 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:55:31 
+[2020-07-01 15:55:31 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2020-07-01 15:55:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1307, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:31 : INFO] - 95 
+[2020-07-01 15:55:31 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1307, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:31 : INFO] - 95 
+[2020-07-01 15:55:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1307, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:31 : INFO] - 95 
+[2020-07-01 15:55:31 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/footwear-free-img.jpg.The file was compressed from 19.44 KB to 19.44 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:31 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2020-07-01 15:55:31 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2020-07-01 15:55:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1306, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:31 : INFO] - 95 
+[2020-07-01 15:55:32 : INFO] - Backing up the original image - 2020/06/men-fashion-free-img-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1306, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:32 : INFO] - 95 
+[2020-07-01 15:55:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1306, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:33 : INFO] - 95 
+[2020-07-01 15:55:33 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/men-fashion-free-img.jpg.The file was compressed from 52.41 KB to 52.41 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:33 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2020-07-01 15:55:33 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2020-07-01 15:55:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1304, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:33 : INFO] - 95 
+[2020-07-01 15:55:34 : INFO] - Backing up the original image - 2020/06/brand7-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:55:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1304, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:34 : INFO] - 95 
+[2020-07-01 15:55:34 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:34 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/brand7-free-img.png.The file was compressed from 13.45 KB to 5.02 KB saving 62.66 percent using WP-Optimize 
+[2020-07-01 15:55:34 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2020-07-01 15:55:34 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2020-07-01 15:55:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1305, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:34 : INFO] - 95 
+[2020-07-01 15:55:34 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1305, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:34 : INFO] - 95 
+[2020-07-01 15:55:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1305, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:34 : INFO] - 95 
+[2020-07-01 15:55:34 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:34 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/women-fashion-free-img.jpg.The file was compressed from 37.54 KB to 37.54 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:34 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2020-07-01 15:55:34 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2020-07-01 15:55:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1303, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:34 : INFO] - 95 
+[2020-07-01 15:55:35 : INFO] - Backing up the original image - 2020/06/brand6-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:55:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1303, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:35 : INFO] - 95 
+[2020-07-01 15:55:35 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/brand6-free-img.png.The file was compressed from 8.57 KB to 4.66 KB saving 45.64 percent using WP-Optimize 
+[2020-07-01 15:55:35 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2020-07-01 15:55:35 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2020-07-01 15:55:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1301, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:35 : INFO] - 95 
+[2020-07-01 15:55:35 : INFO] - Backing up the original image - 2020/06/brand2-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:55:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1301, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:55:35 : INFO] - 95 
+[2020-07-01 15:55:36 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:36 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/brand2-free-img.png.The file was compressed from 7.65 KB to 4.19 KB saving 45.27 percent using WP-Optimize 
+[2020-07-01 15:55:36 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2020-07-01 15:55:36 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2020-07-01 15:55:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1302, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:36 : INFO] - 95 
+[2020-07-01 15:55:36 : INFO] - Backing up the original image - 2020/06/brand4-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:55:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1302, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:36 : INFO] - 95 
+[2020-07-01 15:55:36 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:36 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/brand4-free-img.png.The file was compressed from 8.48 KB to 4.95 KB saving 41.59 percent using WP-Optimize 
+[2020-07-01 15:55:36 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2020-07-01 15:55:36 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2020-07-01 15:55:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1300, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:36 : INFO] - 95 
+[2020-07-01 15:55:36 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1300, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:36 : INFO] - 95 
+[2020-07-01 15:55:36 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/brand1-free-img.png.The file was compressed from 9.86 KB to 9.86 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:36 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2020-07-01 15:55:36 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2020-07-01 15:55:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1299, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:36 : INFO] - 95 
+[2020-07-01 15:55:37 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1299, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:37 : INFO] - 95 
+[2020-07-01 15:55:37 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1299, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:37 : INFO] - 95 
+[2020-07-01 15:55:37 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1299, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:37 : INFO] - 95 
+[2020-07-01 15:55:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1299, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:37 : INFO] - 95 
+[2020-07-01 15:55:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1299, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:38 : INFO] - 95 
+[2020-07-01 15:55:39 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/home-new-bg-free-img.jpg.The file was compressed from 141.74 KB to 141.74 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:39 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2020-07-01 15:55:39 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2020-07-01 15:55:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:39 : INFO] - 95 
+[2020-07-01 15:55:39 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:39 : INFO] - 95 
+[2020-07-01 15:55:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:39 : INFO] - 95 
+[2020-07-01 15:55:40 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:40 : INFO] - 95 
+[2020-07-01 15:55:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:41 : INFO] - 95 
+[2020-07-01 15:55:41 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:41 : INFO] - 95 
+[2020-07-01 15:55:42 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/office-bg.jpg.The file was compressed from 127.02 KB to 127.02 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:42 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2020-07-01 15:55:42 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2020-07-01 15:55:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1253, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:42 : INFO] - 95 
+[2020-07-01 15:55:42 : INFO] - Backing up the original image - 2020/06/team_3-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1253, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:42 : INFO] - 95 
+[2020-07-01 15:55:43 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/team_3.jpg.The file was compressed from 17.31 KB to 17.31 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:43 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2020-07-01 15:55:43 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2020-07-01 15:55:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1254, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:43 : INFO] - 95 
+[2020-07-01 15:55:43 : INFO] - Backing up the original image - 2020/06/25388788904_72d2f5ec6f_z-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1254, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:43 : INFO] - 95 
+[2020-07-01 15:55:43 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/25388788904_72d2f5ec6f_z.jpg.The file was compressed from 20.16 KB to 20.16 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:43 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2020-07-01 15:55:43 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2020-07-01 15:55:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1255, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:43 : INFO] - 95 
+[2020-07-01 15:55:43 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1255, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:43 : INFO] - 95 
+[2020-07-01 15:55:44 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:44 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2020-07-01 15:55:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:44 : INFO] - 95 
+[2020-07-01 15:55:44 : INFO] - Backing up the original image - 2020/06/team_2-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:44 : INFO] - 95 
+[2020-07-01 15:55:44 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/team_2.jpg.The file was compressed from 15.63 KB to 15.63 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:44 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2020-07-01 15:55:44 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2020-07-01 15:55:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:44 : INFO] - 95 
+[2020-07-01 15:55:45 : INFO] - Backing up the original image - 2020/06/11E20A0779-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:46 : INFO] - 95 
+[2020-07-01 15:55:46 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:46 : INFO] - 95 
+[2020-07-01 15:55:47 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:47 : INFO] - 95 
+[2020-07-01 15:55:47 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:47 : INFO] - 95 
+[2020-07-01 15:55:48 : INFO] - Re_Smush_It_Task - Attachment ID : 1252, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:48 : INFO] - 95 
+[2020-07-01 15:55:49 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/11E20A0779.jpg.The file was compressed from 174.74 KB to 174.74 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:49 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2020-07-01 15:55:49 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2020-07-01 15:55:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1251, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:49 : INFO] - 95 
+[2020-07-01 15:55:49 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1251, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:49 : INFO] - 95 
+[2020-07-01 15:55:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1251, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:49 : INFO] - 95 
+[2020-07-01 15:55:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1251, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:50 : INFO] - 95 
+[2020-07-01 15:55:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1251, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:50 : INFO] - 95 
+[2020-07-01 15:55:51 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:51 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/placeholder.png.The file was compressed from 9.01 KB to 9.01 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:55:51 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2020-07-01 15:55:51 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:55:51 
+[2020-07-01 15:55:51 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2020-07-01 15:55:51 : INFO] - Re_Smush_It_Task - Attachment ID : 1239, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:51 : INFO] - 95 
+[2020-07-01 15:55:51 : INFO] - Backing up the original image - 2020/06/6d-process-updraft-pre-smush-original.png 
+[2020-07-01 15:55:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1239, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:55 : INFO] - 95 
+[2020-07-01 15:55:56 : INFO] - Re_Smush_It_Task - Attachment ID : 1239, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:56 : INFO] - 95 
+[2020-07-01 15:55:56 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:56 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/6d-process.png.The file was compressed from 282.19 KB to 78.41 KB saving 72.21 percent using WP-Optimize 
+[2020-07-01 15:55:56 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2020-07-01 15:55:56 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2020-07-01 15:55:56 : INFO] - Re_Smush_It_Task - Attachment ID : 1223, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:56 : INFO] - 95 
+[2020-07-01 15:55:57 : INFO] - Backing up the original image - 2020/06/IMG_20200305_110702-updraft-pre-smush-original.jpg 
+[2020-07-01 15:55:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1223, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:57 : INFO] - 95 
+[2020-07-01 15:55:57 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1223, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:57 : INFO] - 95 
+[2020-07-01 15:55:58 : INFO] - Re_Smush_It_Task - Attachment ID : 1223, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:58 : INFO] - 95 
+[2020-07-01 15:55:58 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:55:58 : INFO] - Re_Smush_It_Task - Attachment ID : 1223, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:58 : INFO] - 95 
+[2020-07-01 15:55:58 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/IMG_20200305_110702.jpg.The file was compressed from 292.26 KB to 235.44 KB saving 19.44 percent using WP-Optimize 
+[2020-07-01 15:55:58 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2020-07-01 15:55:58 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2020-07-01 15:55:58 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:58 : INFO] - 95 
+[2020-07-01 15:55:59 : INFO] - Backing up the original image - 2020/06/cropped-20200507_160234_00001-1-updraft-pre-smush-original.png 
+[2020-07-01 15:55:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:59 : INFO] - 95 
+[2020-07-01 15:55:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:55:59 : INFO] - 95 
+[2020-07-01 15:56:00 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:00 : INFO] - 95 
+[2020-07-01 15:56:00 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:00 : INFO] - 95 
+[2020-07-01 15:56:01 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:01 : INFO] - 95 
+[2020-07-01 15:56:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1214, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:01 : INFO] - 95 
+[2020-07-01 15:56:01 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/cropped-20200507_160234_00001-1.png.The file was compressed from 33.81 KB to 11.60 KB saving 65.68 percent using WP-Optimize 
+[2020-07-01 15:56:01 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2020-07-01 15:56:01 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2020-07-01 15:56:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1212, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:01 : INFO] - 95 
+[2020-07-01 15:56:02 : INFO] - Backing up the original image - 2020/06/cropped-20200507_160234_00001-updraft-pre-smush-original.png 
+[2020-07-01 15:56:02 : INFO] - Re_Smush_It_Task - Attachment ID : 1212, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:02 : INFO] - 95 
+[2020-07-01 15:56:02 : INFO] - Re_Smush_It_Task - Attachment ID : 1212, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:02 : INFO] - 95 
+[2020-07-01 15:56:02 : INFO] - Re_Smush_It_Task - Attachment ID : 1212, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:02 : INFO] - 95 
+[2020-07-01 15:56:02 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:02 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/cropped-20200507_160234_00001.png.The file was compressed from 14.22 KB to 5.45 KB saving 61.66 percent using WP-Optimize 
+[2020-07-01 15:56:02 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2020-07-01 15:56:02 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2020-07-01 15:56:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1208, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:03 : INFO] - 95 
+[2020-07-01 15:56:03 : INFO] - Backing up the original image - 2020/06/hero-slide-4-updraft-pre-smush-original.jpg 
+[2020-07-01 15:56:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1208, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:03 : INFO] - 95 
+[2020-07-01 15:56:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1208, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:03 : INFO] - 95 
+[2020-07-01 15:56:04 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:04 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/hero-slide-4.jpg.The file was compressed from 68.99 KB to 68.82 KB saving 0.24 percent using WP-Optimize 
+[2020-07-01 15:56:04 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2020-07-01 15:56:04 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2020-07-01 15:56:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1209, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:04 : INFO] - 95 
+[2020-07-01 15:56:04 : INFO] - Backing up the original image - 2020/06/hero-slide-5-updraft-pre-smush-original.jpg 
+[2020-07-01 15:56:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1209, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:04 : INFO] - 95 
+[2020-07-01 15:56:04 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1209, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:04 : INFO] - 95 
+[2020-07-01 15:56:04 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:04 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/hero-slide-5.jpg.The file was compressed from 53.96 KB to 51.73 KB saving 4.13 percent using WP-Optimize 
+[2020-07-01 15:56:04 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2020-07-01 15:56:04 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2020-07-01 15:56:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1205, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:04 : INFO] - 95 
+[2020-07-01 15:56:05 : INFO] - Backing up the original image - 2020/06/hero-slide-1-updraft-pre-smush-original.jpg 
+[2020-07-01 15:56:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1205, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:05 : INFO] - 95 
+[2020-07-01 15:56:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1205, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:05 : INFO] - 95 
+[2020-07-01 15:56:05 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/hero-slide-1.jpg.The file was compressed from 31.34 KB to 30.99 KB saving 1.1 percent using WP-Optimize 
+[2020-07-01 15:56:05 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2020-07-01 15:56:05 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2020-07-01 15:56:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1206, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:05 : INFO] - 95 
+[2020-07-01 15:56:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1206, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:05 : INFO] - 95 
+[2020-07-01 15:56:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1206, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:06 : INFO] - 95 
+[2020-07-01 15:56:06 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/hero-slide-2.jpg.The file was compressed from 54.68 KB to 54.68 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:56:06 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2020-07-01 15:56:06 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2020-07-01 15:56:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1207, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:06 : INFO] - 95 
+[2020-07-01 15:56:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1207, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:06 : INFO] - 95 
+[2020-07-01 15:56:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1207, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:07 : INFO] - 95 
+[2020-07-01 15:56:07 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:07 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/hero-slide-3.jpg.The file was compressed from 39.94 KB to 39.94 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:56:07 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2020-07-01 15:56:07 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2020-07-01 15:56:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1203, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:07 : INFO] - 95 
+[2020-07-01 15:56:07 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:07 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2020-07-01 15:56:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1200, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:07 : INFO] - 95 
+[2020-07-01 15:56:07 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1200, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:07 : INFO] - 95 
+[2020-07-01 15:56:07 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:07 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2020-07-01 15:56:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1198, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:07 : INFO] - 95 
+[2020-07-01 15:56:07 : INFO] - 
+ 
+[2020-07-01 15:56:07 : INFO] - Header for logs at time:  Wed, 01 Jul 2020 15:56:07 +0000 on https://dsswebdevelops.in 
+[2020-07-01 15:56:07 : INFO] - WP: 5.4.2 
+[2020-07-01 15:56:07 : INFO] - PHP: 7.2.29 (litespeed, Linux lt-bnk-web337.main-hosting.eu 3.10.0-962.3.2.lve1.5.26.3.el7.x86_64 #1 SMP Wed Aug 14 08:29:59 EDT 2019 x86_64) 
+[2020-07-01 15:56:07 : INFO] - MySQL: 5.5.5 
+[2020-07-01 15:56:07 : INFO] - WPLANG: en_US 
+[2020-07-01 15:56:07 : INFO] - Server: LiteSpeed 
+[2020-07-01 15:56:07 : INFO] - Outbound connections: N 
+[2020-07-01 15:56:07 : INFO] - safe_mode: 0 
+[2020-07-01 15:56:07 : INFO] - max_execution_time: 60 
+[2020-07-01 15:56:07 : INFO] - memory_limit: 128M (used: 11.2M | 14M) 
+[2020-07-01 15:56:07 : INFO] - multisite: N 
+[2020-07-01 15:56:07 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-07-01 15:56:07 : INFO] - A total of 71 tasks of type smush found and will be processed in this iteration 
+[2020-07-01 15:56:07 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2020-07-01 15:56:07 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-07-01 15:56:10 : INFO] - Backing up the original image - 2020/06/20200513_163744_00001-updraft-pre-smush-original.png 
+[2020-07-01 15:56:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1198, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:10 : INFO] - 95 
+[2020-07-01 15:56:10 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1198, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:10 : INFO] - 95 
+[2020-07-01 15:56:10 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1198, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:10 : INFO] - 95 
+[2020-07-01 15:56:10 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1198, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:10 : INFO] - 95 
+[2020-07-01 15:56:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1198, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:11 : INFO] - 95 
+[2020-07-01 15:56:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1198, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:14 : INFO] - 95 
+[2020-07-01 15:56:17 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/20200513_163744_00001.png.The file was compressed from 933.81 KB to 472.05 KB saving 49.45 percent using WP-Optimize 
+[2020-07-01 15:56:17 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2020-07-01 15:56:17 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:56:17 
+[2020-07-01 15:56:17 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2020-07-01 15:56:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1197, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:17 : INFO] - 95 
+[2020-07-01 15:56:20 : INFO] - Backing up the original image - 2020/06/20200513_113444_00001-updraft-pre-smush-original.png 
+[2020-07-01 15:56:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1197, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:22 : INFO] - 95 
+[2020-07-01 15:56:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1197, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:22 : INFO] - 95 
+[2020-07-01 15:56:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1197, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:24 : INFO] - 95 
+[2020-07-01 15:56:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1197, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:24 : INFO] - 95 
+[2020-07-01 15:56:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1197, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:25 : INFO] - 95 
+[2020-07-01 15:56:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1197, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:29 : INFO] - 95 
+[2020-07-01 15:56:33 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/20200513_113444_00001.png.The file was compressed from 1.45 MB to 710.19 KB saving 52.31 percent using WP-Optimize 
+[2020-07-01 15:56:34 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2020-07-01 15:56:34 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2020-07-01 15:56:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1196, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:34 : INFO] - 95 
+[2020-07-01 15:56:34 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1196, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:34 : INFO] - 95 
+[2020-07-01 15:56:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1196, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:34 : INFO] - 95 
+[2020-07-01 15:56:35 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1196, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:35 : INFO] - 95 
+[2020-07-01 15:56:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1196, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:35 : INFO] - 95 
+[2020-07-01 15:56:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1196, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:38 : INFO] - 95 
+[2020-07-01 15:56:45 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/20200511_220623_00001-e1591082733783.png.The file was compressed from 493.18 KB to 493.18 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:56:45 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2020-07-01 15:56:45 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:56:45 
+[2020-07-01 15:56:45 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2020-07-01 15:56:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1195, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:45 : INFO] - 95 
+[2020-07-01 15:56:46 : INFO] - Backing up the original image - 2020/06/20200507_160234_00001-updraft-pre-smush-original.png 
+[2020-07-01 15:56:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1195, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:49 : INFO] - 95 
+[2020-07-01 15:56:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1195, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:49 : INFO] - 95 
+[2020-07-01 15:56:50 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/20200507_160234_00001.png.The file was compressed from 16.26 KB to 5.66 KB saving 65.2 percent using WP-Optimize 
+[2020-07-01 15:56:50 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2020-07-01 15:56:50 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2020-07-01 15:56:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1194, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:50 : INFO] - 95 
+[2020-07-01 15:56:50 : INFO] - Backing up the original image - 2020/06/20200507_155037_00001-updraft-pre-smush-original.png 
+[2020-07-01 15:56:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1194, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:50 : INFO] - 95 
+[2020-07-01 15:56:51 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:51 : INFO] - Re_Smush_It_Task - Attachment ID : 1194, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:51 : INFO] - 95 
+[2020-07-01 15:56:51 : INFO] - Re_Smush_It_Task - Attachment ID : 1194, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:51 : INFO] - 95 
+[2020-07-01 15:56:52 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/20200507_155037_00001.png.The file was compressed from 89.43 KB to 32.03 KB saving 64.18 percent using WP-Optimize 
+[2020-07-01 15:56:52 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2020-07-01 15:56:52 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2020-07-01 15:56:52 : INFO] - Re_Smush_It_Task - Attachment ID : 1193, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:52 : INFO] - 95 
+[2020-07-01 15:56:53 : INFO] - Backing up the original image - 2020/06/20200507_115734_00001-updraft-pre-smush-original.png 
+[2020-07-01 15:56:53 : INFO] - Re_Smush_It_Task - Attachment ID : 1193, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:53 : INFO] - 95 
+[2020-07-01 15:56:54 : INFO] - Re_Smush_It_Task - Attachment ID : 1193, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:54 : INFO] - 95 
+[2020-07-01 15:56:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1193, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:55 : INFO] - 95 
+[2020-07-01 15:56:56 : INFO] - Re_Smush_It_Task - Attachment ID : 1193, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:56 : INFO] - 95 
+[2020-07-01 15:56:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1193, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:57 : INFO] - 95 
+[2020-07-01 15:56:58 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:56:58 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/20200507_115734_00001.png.The file was compressed from 617.50 KB to 199.27 KB saving 67.73 percent using WP-Optimize 
+[2020-07-01 15:56:58 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2020-07-01 15:56:58 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2020-07-01 15:56:58 : INFO] - Re_Smush_It_Task - Attachment ID : 1192, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:56:58 : INFO] - 95 
+[2020-07-01 15:57:03 : INFO] - Backing up the original image - 2020/06/20200511_224633_00001-updraft-pre-smush-original.png 
+[2020-07-01 15:57:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1192, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:04 : INFO] - 95 
+[2020-07-01 15:57:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1192, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:05 : INFO] - 95 
+[2020-07-01 15:57:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1192, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:08 : INFO] - 
+ 
+[2020-07-01 15:57:08 : INFO] - Header for logs at time:  Wed, 01 Jul 2020 15:57:08 +0000 on https://dsswebdevelops.in 
+[2020-07-01 15:57:08 : INFO] - WP: 5.4.2 
+[2020-07-01 15:57:08 : INFO] - PHP: 7.2.29 (litespeed, Linux lt-bnk-web337.main-hosting.eu 3.10.0-962.3.2.lve1.5.26.3.el7.x86_64 #1 SMP Wed Aug 14 08:29:59 EDT 2019 x86_64) 
+[2020-07-01 15:57:08 : INFO] - MySQL: 5.5.5 
+[2020-07-01 15:57:08 : INFO] - WPLANG: en_US 
+[2020-07-01 15:57:08 : INFO] - Server: LiteSpeed 
+[2020-07-01 15:57:08 : INFO] - Outbound connections: N 
+[2020-07-01 15:57:08 : INFO] - safe_mode: 0 
+[2020-07-01 15:57:08 : INFO] - max_execution_time: 60 
+[2020-07-01 15:57:08 : INFO] - memory_limit: 128M (used: 11.1M | 14M) 
+[2020-07-01 15:57:08 : INFO] - multisite: N 
+[2020-07-01 15:57:08 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-07-01 15:57:08 : INFO] - 95 
+[2020-07-01 15:57:08 : INFO] - A total of 65 tasks of type smush found and will be processed in this iteration 
+[2020-07-01 15:57:08 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2020-07-01 15:57:08 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-07-01 15:57:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1192, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:08 : INFO] - 95 
+[2020-07-01 15:57:09 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1192, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:09 : INFO] - 95 
+[2020-07-01 15:57:10 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1192, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:10 : INFO] - 95 
+[2020-07-01 15:57:17 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/20200511_224633_00001.png.The file was compressed from 1.53 MB to 803.33 KB saving 48.86 percent using WP-Optimize 
+[2020-07-01 15:57:17 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2020-07-01 15:57:17 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:57:17 
+[2020-07-01 15:57:17 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2020-07-01 15:57:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1186, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:17 : INFO] - 95 
+[2020-07-01 15:57:18 : INFO] - Backing up the original image - 2020/05/pp03-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1186, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:18 : INFO] - 95 
+[2020-07-01 15:57:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1186, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:18 : INFO] - 95 
+[2020-07-01 15:57:18 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/pp03.jpg.The file was compressed from 147.20 KB to 84.14 KB saving 42.84 percent using WP-Optimize 
+[2020-07-01 15:57:18 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2020-07-01 15:57:18 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2020-07-01 15:57:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1187, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:18 : INFO] - 95 
+[2020-07-01 15:57:19 : INFO] - Backing up the original image - 2020/05/pp02-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1187, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:19 : INFO] - 95 
+[2020-07-01 15:57:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1187, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:19 : INFO] - 95 
+[2020-07-01 15:57:20 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/pp02.jpg.The file was compressed from 125.06 KB to 73.92 KB saving 40.89 percent using WP-Optimize 
+[2020-07-01 15:57:20 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2020-07-01 15:57:20 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2020-07-01 15:57:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1188, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:20 : INFO] - 95 
+[2020-07-01 15:57:21 : INFO] - Backing up the original image - 2020/05/pp01-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1188, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:21 : INFO] - 95 
+[2020-07-01 15:57:21 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1188, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:21 : INFO] - 95 
+[2020-07-01 15:57:21 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:21 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/pp01.jpg.The file was compressed from 98.45 KB to 55.27 KB saving 43.86 percent using WP-Optimize 
+[2020-07-01 15:57:21 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2020-07-01 15:57:21 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2020-07-01 15:57:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1189, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:21 : INFO] - 95 
+[2020-07-01 15:57:21 : INFO] - Backing up the original image - 2020/05/pp05-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1189, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:21 : INFO] - 95 
+[2020-07-01 15:57:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1189, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:22 : INFO] - 95 
+[2020-07-01 15:57:22 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:22 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/pp05.jpg.The file was compressed from 140.69 KB to 81.80 KB saving 41.86 percent using WP-Optimize 
+[2020-07-01 15:57:22 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2020-07-01 15:57:22 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2020-07-01 15:57:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1184, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:22 : INFO] - 95 
+[2020-07-01 15:57:23 : INFO] - Backing up the original image - 2020/05/pp06-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1184, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:23 : INFO] - 95 
+[2020-07-01 15:57:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1184, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:23 : INFO] - 95 
+[2020-07-01 15:57:24 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/pp06.jpg.The file was compressed from 115.40 KB to 65.19 KB saving 43.51 percent using WP-Optimize 
+[2020-07-01 15:57:24 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2020-07-01 15:57:24 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2020-07-01 15:57:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1185, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:24 : INFO] - 95 
+[2020-07-01 15:57:24 : INFO] - Backing up the original image - 2020/05/pp04-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1185, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:24 : INFO] - 95 
+[2020-07-01 15:57:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1185, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:25 : INFO] - 95 
+[2020-07-01 15:57:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:25 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/pp04.jpg.The file was compressed from 174.24 KB to 107.87 KB saving 38.09 percent using WP-Optimize 
+[2020-07-01 15:57:25 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2020-07-01 15:57:25 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2020-07-01 15:57:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1176, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:25 : INFO] - 95 
+[2020-07-01 15:57:25 : INFO] - Backing up the original image - 2020/05/code-lines-icon-updraft-pre-smush-original.png 
+[2020-07-01 15:57:25 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/code-lines-icon.png.The file was compressed from 217 bytes to 217 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:25 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2020-07-01 15:57:25 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2020-07-01 15:57:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1177, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:25 : INFO] - 95 
+[2020-07-01 15:57:26 : INFO] - Backing up the original image - 2020/05/award-icon-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:57:26 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/award-icon-free-img.png.The file was compressed from 554 bytes to 554 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:26 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2020-07-01 15:57:26 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2020-07-01 15:57:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1178, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:26 : INFO] - 95 
+[2020-07-01 15:57:26 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1178, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:26 : INFO] - 95 
+[2020-07-01 15:57:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1178, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:26 : INFO] - 95 
+[2020-07-01 15:57:27 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/proj7.jpg.The file was compressed from 47.31 KB to 47.31 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:27 : INFO] - Completed processing task with ID : 61, and type 'smush' 
+[2020-07-01 15:57:27 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2020-07-01 15:57:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1179, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:27 : INFO] - 95 
+[2020-07-01 15:57:27 : INFO] - Backing up the original image - 2020/05/proj6-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1179, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:27 : INFO] - 95 
+[2020-07-01 15:57:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1179, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:27 : INFO] - 95 
+[2020-07-01 15:57:28 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/proj6.jpg.The file was compressed from 28.23 KB to 28.23 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:28 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2020-07-01 15:57:28 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2020-07-01 15:57:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1180, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:28 : INFO] - 95 
+[2020-07-01 15:57:28 : INFO] - Backing up the original image - 2020/05/proj5-free-img-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1180, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:28 : INFO] - 95 
+[2020-07-01 15:57:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1180, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:29 : INFO] - 95 
+[2020-07-01 15:57:29 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:29 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/proj5-free-img.jpg.The file was compressed from 16.72 KB to 16.72 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:29 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2020-07-01 15:57:29 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2020-07-01 15:57:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1174, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:29 : INFO] - 95 
+[2020-07-01 15:57:29 : INFO] - Backing up the original image - 2020/05/projects-icon-updraft-pre-smush-original.png 
+[2020-07-01 15:57:29 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/projects-icon.png.The file was compressed from 455 bytes to 455 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:29 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2020-07-01 15:57:29 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2020-07-01 15:57:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1175, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:29 : INFO] - 95 
+[2020-07-01 15:57:29 : INFO] - Backing up the original image - 2020/05/heart-icon-updraft-pre-smush-original.png 
+[2020-07-01 15:57:29 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/heart-icon.png.The file was compressed from 643 bytes to 643 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:29 : INFO] - Completed processing task with ID : 65, and type 'smush' 
+[2020-07-01 15:57:29 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2020-07-01 15:57:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1165, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:29 : INFO] - 95 
+[2020-07-01 15:57:30 : INFO] - Backing up the original image - 2020/05/share-updraft-pre-smush-original.png 
+[2020-07-01 15:57:30 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/share.png.The file was compressed from 607 bytes to 607 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:30 : INFO] - Completed processing task with ID : 66, and type 'smush' 
+[2020-07-01 15:57:30 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2020-07-01 15:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1166, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:30 : INFO] - 95 
+[2020-07-01 15:57:30 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:30 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2020-07-01 15:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1167, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:30 : INFO] - 95 
+[2020-07-01 15:57:30 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:30 : INFO] - Processing task with ID : 69, and type 'smush' 
+[2020-07-01 15:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1168, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:30 : INFO] - 95 
+[2020-07-01 15:57:30 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1168, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:30 : INFO] - 95 
+[2020-07-01 15:57:30 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1168, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:30 : INFO] - 95 
+[2020-07-01 15:57:30 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/client1.png.The file was compressed from 2.54 KB to 2.54 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:30 : INFO] - Completed processing task with ID : 69, and type 'smush' 
+[2020-07-01 15:57:30 : INFO] - Processing task with ID : 70, and type 'smush' 
+[2020-07-01 15:57:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1169, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:30 : INFO] - 95 
+[2020-07-01 15:57:31 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1169, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:31 : INFO] - 95 
+[2020-07-01 15:57:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1169, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:31 : INFO] - 95 
+[2020-07-01 15:57:31 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/client2.png.The file was compressed from 4.13 KB to 4.13 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:31 : INFO] - Completed processing task with ID : 70, and type 'smush' 
+[2020-07-01 15:57:31 : INFO] - Processing task with ID : 71, and type 'smush' 
+[2020-07-01 15:57:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1170, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:31 : INFO] - 95 
+[2020-07-01 15:57:31 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1170, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:31 : INFO] - 95 
+[2020-07-01 15:57:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1170, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:32 : INFO] - 95 
+[2020-07-01 15:57:32 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:32 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/client3.png.The file was compressed from 4.77 KB to 4.77 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:32 : INFO] - Completed processing task with ID : 71, and type 'smush' 
+[2020-07-01 15:57:32 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2020-07-01 15:57:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1171, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:32 : INFO] - 95 
+[2020-07-01 15:57:32 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1171, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:32 : INFO] - 95 
+[2020-07-01 15:57:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1171, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:32 : INFO] - 95 
+[2020-07-01 15:57:33 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/client4.png.The file was compressed from 4.07 KB to 4.07 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:33 : INFO] - Completed processing task with ID : 72, and type 'smush' 
+[2020-07-01 15:57:33 : INFO] - Processing task with ID : 73, and type 'smush' 
+[2020-07-01 15:57:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1172, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:33 : INFO] - 95 
+[2020-07-01 15:57:33 : INFO] - Backing up the original image - 2020/05/client5-updraft-pre-smush-original.png 
+[2020-07-01 15:57:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1172, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:33 : INFO] - 95 
+[2020-07-01 15:57:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1172, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:33 : INFO] - 95 
+[2020-07-01 15:57:34 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:34 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/client5.png.The file was compressed from 3.96 KB to 3.96 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:34 : INFO] - Completed processing task with ID : 73, and type 'smush' 
+[2020-07-01 15:57:34 : INFO] - Processing task with ID : 74, and type 'smush' 
+[2020-07-01 15:57:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1173, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:34 : INFO] - 95 
+[2020-07-01 15:57:34 : INFO] - Backing up the original image - 2020/05/client6-updraft-pre-smush-original.png 
+[2020-07-01 15:57:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1173, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:34 : INFO] - 95 
+[2020-07-01 15:57:34 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1173, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:34 : INFO] - 95 
+[2020-07-01 15:57:34 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/client6.png.The file was compressed from 2.50 KB to 2.50 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:34 : INFO] - Completed processing task with ID : 74, and type 'smush' 
+[2020-07-01 15:57:34 : INFO] - Processing task with ID : 75, and type 'smush' 
+[2020-07-01 15:57:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1162, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:34 : INFO] - 95 
+[2020-07-01 15:57:35 : INFO] - Backing up the original image - 2020/05/editing-updraft-pre-smush-original.png 
+[2020-07-01 15:57:35 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/editing.png.The file was compressed from 1.13 KB to 1.13 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:35 : INFO] - Completed processing task with ID : 75, and type 'smush' 
+[2020-07-01 15:57:35 : INFO] - Processing task with ID : 76, and type 'smush' 
+[2020-07-01 15:57:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1163, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:35 : INFO] - 95 
+[2020-07-01 15:57:35 : INFO] - Backing up the original image - 2020/05/coding-1-1-updraft-pre-smush-original.png 
+[2020-07-01 15:57:35 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/coding-1-1.png.The file was compressed from 524 bytes to 524 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:35 : INFO] - Completed processing task with ID : 76, and type 'smush' 
+[2020-07-01 15:57:35 : INFO] - Processing task with ID : 77, and type 'smush' 
+[2020-07-01 15:57:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1164, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:35 : INFO] - 95 
+[2020-07-01 15:57:35 : INFO] - Backing up the original image - 2020/05/marketing-1-updraft-pre-smush-original.png 
+[2020-07-01 15:57:35 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/marketing-1.png.The file was compressed from 777 bytes to 777 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:35 : INFO] - Completed processing task with ID : 77, and type 'smush' 
+[2020-07-01 15:57:35 : INFO] - Processing task with ID : 78, and type 'smush' 
+[2020-07-01 15:57:35 : INFO] - Re_Smush_It_Task - Attachment ID : 6, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:35 : INFO] - 95 
+[2020-07-01 15:57:35 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:35 : INFO] - Re_Smush_It_Task - Attachment ID : 6, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:35 : INFO] - 95 
+[2020-07-01 15:57:35 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:35 : INFO] - Processing task with ID : 79, and type 'smush' 
+[2020-07-01 15:57:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1159, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:36 : INFO] - 95 
+[2020-07-01 15:57:36 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1159, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:36 : INFO] - 95 
+[2020-07-01 15:57:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1159, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:36 : INFO] - 95 
+[2020-07-01 15:57:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1159, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:37 : INFO] - 95 
+[2020-07-01 15:57:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1159, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:37 : INFO] - 95 
+[2020-07-01 15:57:37 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/02/agency-social-01.jpg.The file was compressed from 70.42 KB to 70.42 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:37 : INFO] - Completed processing task with ID : 79, and type 'smush' 
+[2020-07-01 15:57:37 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:57:37 
+[2020-07-01 15:57:37 : INFO] - Processing task with ID : 80, and type 'smush' 
+[2020-07-01 15:57:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1128, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:37 : INFO] - 95 
+[2020-07-01 15:57:38 : INFO] - Backing up the original image - 2020/01/businesman-hero-section-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1128, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:38 : INFO] - 95 
+[2020-07-01 15:57:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1128, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:38 : INFO] - 95 
+[2020-07-01 15:57:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1128, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:39 : INFO] - 95 
+[2020-07-01 15:57:39 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1128, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:39 : INFO] - 95 
+[2020-07-01 15:57:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1128, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:39 : INFO] - 95 
+[2020-07-01 15:57:40 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:40 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/01/businesman-hero-section.jpg.The file was compressed from 424.09 KB to 190.35 KB saving 55.12 percent using WP-Optimize 
+[2020-07-01 15:57:40 : INFO] - Completed processing task with ID : 80, and type 'smush' 
+[2020-07-01 15:57:40 : INFO] - Processing task with ID : 81, and type 'smush' 
+[2020-07-01 15:57:40 : INFO] - Re_Smush_It_Task - Attachment ID : 1119, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:40 : INFO] - 95 
+[2020-07-01 15:57:41 : INFO] - Backing up the original image - 2020/01/why-choose-us-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1119, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:41 : INFO] - 95 
+[2020-07-01 15:57:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1119, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:41 : INFO] - 95 
+[2020-07-01 15:57:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1119, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:43 : INFO] - 95 
+[2020-07-01 15:57:47 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/01/why-choose-us.jpg.The file was compressed from 492.63 KB to 219.17 KB saving 55.51 percent using WP-Optimize 
+[2020-07-01 15:57:47 : INFO] - Completed processing task with ID : 81, and type 'smush' 
+[2020-07-01 15:57:47 : INFO] - Processing task with ID : 82, and type 'smush' 
+[2020-07-01 15:57:47 : INFO] - Re_Smush_It_Task - Attachment ID : 1118, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:47 : INFO] - 95 
+[2020-07-01 15:57:48 : INFO] - Backing up the original image - 2020/01/about-bg-img-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:48 : INFO] - Re_Smush_It_Task - Attachment ID : 1118, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:48 : INFO] - 95 
+[2020-07-01 15:57:48 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:48 : INFO] - Re_Smush_It_Task - Attachment ID : 1118, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:48 : INFO] - 95 
+[2020-07-01 15:57:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1118, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:49 : INFO] - 95 
+[2020-07-01 15:57:49 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1118, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:49 : INFO] - 95 
+[2020-07-01 15:57:49 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1118, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:49 : INFO] - 95 
+[2020-07-01 15:57:49 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:49 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/01/about-bg-img.jpg.The file was compressed from 1.15 MB to 515.55 KB saving 56.14 percent using WP-Optimize 
+[2020-07-01 15:57:49 : INFO] - Completed processing task with ID : 82, and type 'smush' 
+[2020-07-01 15:57:49 : INFO] - Processing task with ID : 83, and type 'smush' 
+[2020-07-01 15:57:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1115, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:49 : INFO] - 95 
+[2020-07-01 15:57:50 : INFO] - Backing up the original image - 2020/01/testimonial-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1115, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:50 : INFO] - 95 
+[2020-07-01 15:57:50 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/01/testimonial.jpg.The file was compressed from 13.59 KB to 13.55 KB saving 0.31 percent using WP-Optimize 
+[2020-07-01 15:57:50 : INFO] - Completed processing task with ID : 83, and type 'smush' 
+[2020-07-01 15:57:50 : INFO] - Processing task with ID : 84, and type 'smush' 
+[2020-07-01 15:57:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1113, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:50 : INFO] - 95 
+[2020-07-01 15:57:50 : INFO] - Backing up the original image - 2020/01/team-3-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1113, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:50 : INFO] - 95 
+[2020-07-01 15:57:51 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:51 : INFO] - Re_Smush_It_Task - Attachment ID : 1113, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:51 : INFO] - 95 
+[2020-07-01 15:57:51 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:51 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/01/team-3.jpg.The file was compressed from 138.34 KB to 57.73 KB saving 58.27 percent using WP-Optimize 
+[2020-07-01 15:57:51 : INFO] - Completed processing task with ID : 84, and type 'smush' 
+[2020-07-01 15:57:51 : INFO] - Processing task with ID : 85, and type 'smush' 
+[2020-07-01 15:57:51 : INFO] - Re_Smush_It_Task - Attachment ID : 1111, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:51 : INFO] - 95 
+[2020-07-01 15:57:51 : INFO] - Backing up the original image - 2020/01/team-2-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:51 : INFO] - Re_Smush_It_Task - Attachment ID : 1111, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:51 : INFO] - 95 
+[2020-07-01 15:57:52 : INFO] - Re_Smush_It_Task - Attachment ID : 1111, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:52 : INFO] - 95 
+[2020-07-01 15:57:52 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/01/team-2.jpg.The file was compressed from 96.23 KB to 45.64 KB saving 52.57 percent using WP-Optimize 
+[2020-07-01 15:57:52 : INFO] - Completed processing task with ID : 85, and type 'smush' 
+[2020-07-01 15:57:52 : INFO] - Processing task with ID : 86, and type 'smush' 
+[2020-07-01 15:57:52 : INFO] - Re_Smush_It_Task - Attachment ID : 1110, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:52 : INFO] - 95 
+[2020-07-01 15:57:52 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:52 : INFO] - Re_Smush_It_Task - Attachment ID : 1110, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:52 : INFO] - 95 
+[2020-07-01 15:57:53 : INFO] - Re_Smush_It_Task - Attachment ID : 1110, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:53 : INFO] - 95 
+[2020-07-01 15:57:53 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/01/team-1.jpg.The file was compressed from 97.31 KB to 97.31 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:53 : INFO] - Completed processing task with ID : 86, and type 'smush' 
+[2020-07-01 15:57:53 : INFO] - Processing task with ID : 87, and type 'smush' 
+[2020-07-01 15:57:53 : INFO] - Re_Smush_It_Task - Attachment ID : 1045, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:53 : INFO] - 95 
+[2020-07-01 15:57:53 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:53 : INFO] - Processing task with ID : 88, and type 'smush' 
+[2020-07-01 15:57:53 : INFO] - Re_Smush_It_Task - Attachment ID : 820, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:53 : INFO] - 95 
+[2020-07-01 15:57:53 : INFO] - Backing up the original image - 2017/09/spacewhite-logo-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:57:53 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/09/spacewhite-logo-free-img.png.The file was compressed from 442 bytes to 442 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:53 : INFO] - Completed processing task with ID : 88, and type 'smush' 
+[2020-07-01 15:57:53 : INFO] - Processing task with ID : 89, and type 'smush' 
+[2020-07-01 15:57:53 : INFO] - Re_Smush_It_Task - Attachment ID : 817, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:53 : INFO] - 95 
+[2020-07-01 15:57:54 : INFO] - Backing up the original image - 2017/09/space-logo-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:57:54 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/09/space-logo-free-img.png.The file was compressed from 401 bytes to 401 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:54 : INFO] - Completed processing task with ID : 89, and type 'smush' 
+[2020-07-01 15:57:54 : INFO] - Processing task with ID : 90, and type 'smush' 
+[2020-07-01 15:57:54 : INFO] - Re_Smush_It_Task - Attachment ID : 818, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:54 : INFO] - 95 
+[2020-07-01 15:57:54 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:54 : INFO] - Re_Smush_It_Task - Attachment ID : 818, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:54 : INFO] - 95 
+[2020-07-01 15:57:54 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/09/space-logo-free-img@2x.png.The file was compressed from 823 bytes to 823 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:54 : INFO] - Completed processing task with ID : 90, and type 'smush' 
+[2020-07-01 15:57:54 : INFO] - Processing task with ID : 91, and type 'smush' 
+[2020-07-01 15:57:54 : INFO] - Re_Smush_It_Task - Attachment ID : 601, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:54 : INFO] - 95 
+[2020-07-01 15:57:55 : INFO] - Backing up the original image - 2017/07/proj5-free-img-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:55 : INFO] - Re_Smush_It_Task - Attachment ID : 601, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:55 : INFO] - 95 
+[2020-07-01 15:57:55 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:55 : INFO] - Re_Smush_It_Task - Attachment ID : 601, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:55 : INFO] - 95 
+[2020-07-01 15:57:55 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:55 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/07/proj5-free-img.jpg.The file was compressed from 16.72 KB to 16.72 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:55 : INFO] - Completed processing task with ID : 91, and type 'smush' 
+[2020-07-01 15:57:55 : INFO] - Processing task with ID : 92, and type 'smush' 
+[2020-07-01 15:57:55 : INFO] - Re_Smush_It_Task - Attachment ID : 600, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:55 : INFO] - 95 
+[2020-07-01 15:57:55 : INFO] - Backing up the original image - 2017/07/proj6-free-img-updraft-pre-smush-original.jpg 
+[2020-07-01 15:57:55 : INFO] - Re_Smush_It_Task - Attachment ID : 600, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:55 : INFO] - 95 
+[2020-07-01 15:57:57 : INFO] - Re_Smush_It_Task - Attachment ID : 600, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:57 : INFO] - 95 
+[2020-07-01 15:57:57 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:57 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/07/proj6-free-img.jpg.The file was compressed from 17.38 KB to 17.38 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:57 : INFO] - Completed processing task with ID : 92, and type 'smush' 
+[2020-07-01 15:57:57 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:57:57 
+[2020-07-01 15:57:57 : INFO] - Processing task with ID : 93, and type 'smush' 
+[2020-07-01 15:57:57 : INFO] - Re_Smush_It_Task - Attachment ID : 599, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:57 : INFO] - 95 
+[2020-07-01 15:57:57 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:57 : INFO] - Re_Smush_It_Task - Attachment ID : 599, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:57 : INFO] - 95 
+[2020-07-01 15:57:57 : INFO] - Re_Smush_It_Task - Attachment ID : 599, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:57 : INFO] - 95 
+[2020-07-01 15:57:58 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/07/proj7-free-img.jpg.The file was compressed from 33.00 KB to 33.00 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:58 : INFO] - Completed processing task with ID : 93, and type 'smush' 
+[2020-07-01 15:57:58 : INFO] - Processing task with ID : 94, and type 'smush' 
+[2020-07-01 15:57:58 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:58 : INFO] - 95 
+[2020-07-01 15:57:58 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:58 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:58 : INFO] - 95 
+[2020-07-01 15:57:58 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:57:58 : INFO] - Re_Smush_It_Task - Attachment ID : 598, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:58 : INFO] - 95 
+[2020-07-01 15:57:58 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/07/proj3-free-img.jpg.The file was compressed from 22.72 KB to 22.72 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:58 : INFO] - Completed processing task with ID : 94, and type 'smush' 
+[2020-07-01 15:57:58 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2020-07-01 15:57:58 : INFO] - Re_Smush_It_Task - Attachment ID : 427, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:58 : INFO] - 95 
+[2020-07-01 15:57:59 : INFO] - Backing up the original image - 2017/06/code-lines-icon-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:57:59 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/code-lines-icon-free-img.png.The file was compressed from 212 bytes to 212 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:59 : INFO] - Completed processing task with ID : 95, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Re_Smush_It_Task - Attachment ID : 411, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:59 : INFO] - 95 
+[2020-07-01 15:57:59 : INFO] - Backing up the original image - 2017/06/projects-icon-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:57:59 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/projects-icon-free-img.png.The file was compressed from 372 bytes to 371 bytes saving 0.27 percent using WP-Optimize 
+[2020-07-01 15:57:59 : INFO] - Completed processing task with ID : 96, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Re_Smush_It_Task - Attachment ID : 409, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:59 : INFO] - 95 
+[2020-07-01 15:57:59 : INFO] - Backing up the original image - 2017/06/heart-icon-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:57:59 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/heart-icon-free-img.png.The file was compressed from 419 bytes to 419 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:59 : INFO] - Completed processing task with ID : 97, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Re_Smush_It_Task - Attachment ID : 407, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:59 : INFO] - 95 
+[2020-07-01 15:57:59 : INFO] - Backing up the original image - 2017/06/award-icon-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:57:59 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/award-icon-free-img.png.The file was compressed from 554 bytes to 554 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:57:59 : INFO] - Completed processing task with ID : 98, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Processing task with ID : 99, and type 'smush' 
+[2020-07-01 15:57:59 : INFO] - Re_Smush_It_Task - Attachment ID : 346, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:57:59 : INFO] - 95 
+[2020-07-01 15:58:00 : INFO] - Backing up the original image - 2017/06/marketing-1-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:00 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/marketing-1-free-img.png.The file was compressed from 507 bytes to 507 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:00 : INFO] - Completed processing task with ID : 99, and type 'smush' 
+[2020-07-01 15:58:00 : INFO] - Processing task with ID : 100, and type 'smush' 
+[2020-07-01 15:58:00 : INFO] - Re_Smush_It_Task - Attachment ID : 344, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:00 : INFO] - 95 
+[2020-07-01 15:58:00 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:00 : INFO] - Re_Smush_It_Task - Attachment ID : 344, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:00 : INFO] - 95 
+[2020-07-01 15:58:00 : INFO] - Re_Smush_It_Task - Attachment ID : 344, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:00 : INFO] - 95 
+[2020-07-01 15:58:00 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:00 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/client6-free-img.png.The file was compressed from 2.00 KB to 2.00 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:00 : INFO] - Completed processing task with ID : 100, and type 'smush' 
+[2020-07-01 15:58:00 : INFO] - Processing task with ID : 101, and type 'smush' 
+[2020-07-01 15:58:00 : INFO] - Re_Smush_It_Task - Attachment ID : 343, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:00 : INFO] - 95 
+[2020-07-01 15:58:01 : INFO] - Backing up the original image - 2017/06/client5-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:01 : INFO] - Re_Smush_It_Task - Attachment ID : 343, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:01 : INFO] - 95 
+[2020-07-01 15:58:01 : INFO] - Re_Smush_It_Task - Attachment ID : 343, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:01 : INFO] - 95 
+[2020-07-01 15:58:03 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/client5-free-img.png.The file was compressed from 2.65 KB to 2.48 KB saving 6.4 percent using WP-Optimize 
+[2020-07-01 15:58:03 : INFO] - Completed processing task with ID : 101, and type 'smush' 
+[2020-07-01 15:58:03 : INFO] - Processing task with ID : 102, and type 'smush' 
+[2020-07-01 15:58:03 : INFO] - Re_Smush_It_Task - Attachment ID : 342, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:03 : INFO] - 95 
+[2020-07-01 15:58:03 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:03 : INFO] - Re_Smush_It_Task - Attachment ID : 342, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:03 : INFO] - 95 
+[2020-07-01 15:58:03 : INFO] - Re_Smush_It_Task - Attachment ID : 342, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:03 : INFO] - 95 
+[2020-07-01 15:58:03 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:03 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/client4-free-img.png.The file was compressed from 3.54 KB to 3.54 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:03 : INFO] - Completed processing task with ID : 102, and type 'smush' 
+[2020-07-01 15:58:03 : INFO] - Processing task with ID : 103, and type 'smush' 
+[2020-07-01 15:58:03 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:03 : INFO] - 95 
+[2020-07-01 15:58:03 : INFO] - Backing up the original image - 2017/06/client3-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:03 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:03 : INFO] - 95 
+[2020-07-01 15:58:04 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:04 : INFO] - Re_Smush_It_Task - Attachment ID : 341, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:04 : INFO] - 95 
+[2020-07-01 15:58:04 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/client3-free-img.png.The file was compressed from 3.81 KB to 3.78 KB saving 0.9 percent using WP-Optimize 
+[2020-07-01 15:58:04 : INFO] - Completed processing task with ID : 103, and type 'smush' 
+[2020-07-01 15:58:04 : INFO] - Processing task with ID : 104, and type 'smush' 
+[2020-07-01 15:58:04 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:04 : INFO] - 95 
+[2020-07-01 15:58:04 : INFO] - Backing up the original image - 2017/06/client2-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:04 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:04 : INFO] - 95 
+[2020-07-01 15:58:04 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:04 : INFO] - Re_Smush_It_Task - Attachment ID : 340, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:04 : INFO] - 95 
+[2020-07-01 15:58:05 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/client2-free-img.png.The file was compressed from 2.71 KB to 2.71 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:05 : INFO] - Completed processing task with ID : 104, and type 'smush' 
+[2020-07-01 15:58:05 : INFO] - Processing task with ID : 105, and type 'smush' 
+[2020-07-01 15:58:05 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:05 : INFO] - 95 
+[2020-07-01 15:58:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:05 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:05 : INFO] - 95 
+[2020-07-01 15:58:05 : INFO] - Re_Smush_It_Task - Attachment ID : 339, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:05 : INFO] - 95 
+[2020-07-01 15:58:05 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/client1-free-img.png.The file was compressed from 1.71 KB to 1.71 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:05 : INFO] - Completed processing task with ID : 105, and type 'smush' 
+[2020-07-01 15:58:05 : INFO] - Processing task with ID : 106, and type 'smush' 
+[2020-07-01 15:58:05 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:05 : INFO] - 95 
+[2020-07-01 15:58:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:06 : INFO] - Processing task with ID : 107, and type 'smush' 
+[2020-07-01 15:58:06 : INFO] - Re_Smush_It_Task - Attachment ID : 259, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:06 : INFO] - 95 
+[2020-07-01 15:58:06 : INFO] - Backing up the original image - 2017/06/coding-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:06 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/coding-free-img.png.The file was compressed from 495 bytes to 483 bytes saving 2.42 percent using WP-Optimize 
+[2020-07-01 15:58:06 : INFO] - Completed processing task with ID : 107, and type 'smush' 
+[2020-07-01 15:58:06 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2020-07-01 15:58:06 : INFO] - Re_Smush_It_Task - Attachment ID : 179, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:06 : INFO] - 95 
+[2020-07-01 15:58:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:06 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2020-07-01 15:58:06 : INFO] - Re_Smush_It_Task - Attachment ID : 177, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:06 : INFO] - 95 
+[2020-07-01 15:58:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:06 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2020-07-01 15:58:06 : INFO] - Re_Smush_It_Task - Attachment ID : 176, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:06 : INFO] - 95 
+[2020-07-01 15:58:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:06 : INFO] - Processing task with ID : 111, and type 'smush' 
+[2020-07-01 15:58:06 : INFO] - Re_Smush_It_Task - Attachment ID : 11, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:06 : INFO] - 95 
+[2020-07-01 15:58:06 : INFO] - Backing up the original image - 2017/06/favicon-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:06 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/favicon-free-img.png.The file was compressed from 454 bytes to 454 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:06 : INFO] - Completed processing task with ID : 111, and type 'smush' 
+[2020-07-01 15:58:06 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-01 15:58:06 : INFO] - Semaphore (smush) unlocked 
+[2020-07-01 15:58:06 : INFO] - Successfully processed the queue (smush). 111 tasks were processed out of 111. 
+[2020-07-01 15:58:06 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-01 15:58:08 : INFO] - 
+ 
+[2020-07-01 15:58:08 : INFO] - Header for logs at time:  Wed, 01 Jul 2020 15:58:08 +0000 on https://dsswebdevelops.in 
+[2020-07-01 15:58:08 : INFO] - WP: 5.4.2 
+[2020-07-01 15:58:08 : INFO] - PHP: 7.2.29 (litespeed, Linux lt-bnk-web337.main-hosting.eu 3.10.0-962.3.2.lve1.5.26.3.el7.x86_64 #1 SMP Wed Aug 14 08:29:59 EDT 2019 x86_64) 
+[2020-07-01 15:58:08 : INFO] - MySQL: 5.5.5 
+[2020-07-01 15:58:08 : INFO] - WPLANG: en_US 
+[2020-07-01 15:58:08 : INFO] - Server: LiteSpeed 
+[2020-07-01 15:58:08 : INFO] - Outbound connections: N 
+[2020-07-01 15:58:08 : INFO] - safe_mode: 0 
+[2020-07-01 15:58:08 : INFO] - max_execution_time: 60 
+[2020-07-01 15:58:08 : INFO] - memory_limit: 128M (used: 10.9M | 12M) 
+[2020-07-01 15:58:08 : INFO] - multisite: N 
+[2020-07-01 15:58:08 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-07-01 15:58:08 : INFO] - A total of 13 tasks of type smush found and will be processed in this iteration 
+[2020-07-01 15:58:08 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:58:08 
+[2020-07-01 15:58:08 : INFO] - Semaphore lock (smush) complete 
+[2020-07-01 15:58:08 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2020-07-01 15:58:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1310, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:58:08 : INFO] - 95 
+[2020-07-01 15:58:08 : INFO] - Backing up the original image - 2020/06/quality-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:08 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/quality-free-img.png.The file was compressed from 1.56 KB to 1.56 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:08 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2020-07-01 15:58:08 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2020-07-01 15:58:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1311, Started on : July 01, 2020 03:55:08 
+[2020-07-01 15:58:08 : INFO] - 95 
+[2020-07-01 15:58:09 : INFO] - Backing up the original image - 2020/06/tag-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:09 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/tag-free-img.png.The file was compressed from 1.99 KB to 1.99 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:09 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2020-07-01 15:58:09 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2020-07-01 15:58:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1255, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:09 : INFO] - 95 
+[2020-07-01 15:58:09 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1255, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:09 : INFO] - 95 
+[2020-07-01 15:58:09 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/team_4.jpg.The file was compressed from 16.01 KB to 16.01 KB saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:09 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2020-07-01 15:58:09 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2020-07-01 15:58:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1203, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:09 : INFO] - 95 
+[2020-07-01 15:58:09 : INFO] - Backing up the original image - 2020/06/cropped-space-logo-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:09 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/cropped-space-logo-free-img.png.The file was compressed from 427 bytes to 394 bytes saving 7.73 percent using WP-Optimize 
+[2020-07-01 15:58:09 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2020-07-01 15:58:09 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2020-07-01 15:58:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1200, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:09 : INFO] - 95 
+[2020-07-01 15:58:10 : INFO] - Backing up the original image - 2020/06/space-logo-free-img@2x-updraft-pre-smush-original.png 
+[2020-07-01 15:58:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1200, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:10 : INFO] - 95 
+[2020-07-01 15:58:10 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:10 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/06/space-logo-free-img@2x.png.The file was compressed from 823 bytes to 823 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:10 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2020-07-01 15:58:10 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2020-07-01 15:58:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1166, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:10 : INFO] - 95 
+[2020-07-01 15:58:10 : INFO] - Backing up the original image - 2020/05/cart-updraft-pre-smush-original.png 
+[2020-07-01 15:58:10 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/cart.png.The file was compressed from 683 bytes to 683 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:10 : INFO] - Completed processing task with ID : 67, and type 'smush' 
+[2020-07-01 15:58:10 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2020-07-01 15:58:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1167, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:10 : INFO] - 95 
+[2020-07-01 15:58:10 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:10 : INFO] - Processing task with ID : 78, and type 'smush' 
+[2020-07-01 15:58:10 : INFO] - Re_Smush_It_Task - Attachment ID : 6, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:10 : INFO] - 95 
+[2020-07-01 15:58:10 : INFO] - Backing up the original image - 2020/05/space-logo-free-img@2x-updraft-pre-smush-original.png 
+[2020-07-01 15:58:10 : INFO] - Re_Smush_It_Task - Attachment ID : 6, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:10 : INFO] - 95 
+[2020-07-01 15:58:11 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:11 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/space-logo-free-img@2x.png.The file was compressed from 823 bytes to 823 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:11 : INFO] - Completed processing task with ID : 78, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Processing task with ID : 87, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1045, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:58:11 : INFO] - 95 
+[2020-07-01 15:58:11 : INFO] - Backing up the original image - 2019/12/cropped-space-logo-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:11 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2019/12/cropped-space-logo-free-img.png.The file was compressed from 427 bytes to 394 bytes saving 7.73 percent using WP-Optimize 
+[2020-07-01 15:58:11 : INFO] - Completed processing task with ID : 87, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Processing task with ID : 106, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:11 : INFO] - 95 
+[2020-07-01 15:58:11 : INFO] - Backing up the original image - 2017/06/share-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:58:11 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/share-free-img.png.The file was compressed from 470 bytes to 470 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:58:11 : INFO] - Completed processing task with ID : 106, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Re_Smush_It_Task - Attachment ID : 179, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:11 : INFO] - 95 
+[2020-07-01 15:58:11 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:11 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Re_Smush_It_Task - Attachment ID : 177, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:11 : INFO] - 95 
+[2020-07-01 15:58:11 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:11 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2020-07-01 15:58:11 : INFO] - Re_Smush_It_Task - Attachment ID : 176, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:58:11 : INFO] - 95 
+[2020-07-01 15:58:11 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:58:11 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-01 15:58:11 : INFO] - Semaphore (smush) unlocked 
+[2020-07-01 15:58:11 : INFO] - Successfully processed the queue (smush). 13 tasks were processed out of 13. 
+[2020-07-01 15:58:11 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-01 15:59:08 : INFO] - 
+ 
+[2020-07-01 15:59:08 : INFO] - Header for logs at time:  Wed, 01 Jul 2020 15:59:08 +0000 on https://dsswebdevelops.in 
+[2020-07-01 15:59:08 : INFO] - WP: 5.4.2 
+[2020-07-01 15:59:08 : INFO] - PHP: 7.2.29 (litespeed, Linux lt-bnk-web337.main-hosting.eu 3.10.0-962.3.2.lve1.5.26.3.el7.x86_64 #1 SMP Wed Aug 14 08:29:59 EDT 2019 x86_64) 
+[2020-07-01 15:59:08 : INFO] - MySQL: 5.5.5 
+[2020-07-01 15:59:08 : INFO] - WPLANG: en_US 
+[2020-07-01 15:59:08 : INFO] - Server: LiteSpeed 
+[2020-07-01 15:59:08 : INFO] - Outbound connections: N 
+[2020-07-01 15:59:08 : INFO] - safe_mode: 0 
+[2020-07-01 15:59:08 : INFO] - max_execution_time: 60 
+[2020-07-01 15:59:08 : INFO] - memory_limit: 128M (used: 10.7M | 12M) 
+[2020-07-01 15:59:08 : INFO] - multisite: N 
+[2020-07-01 15:59:08 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-07-01 15:59:08 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-07-01 15:59:08 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 15:59:08 
+[2020-07-01 15:59:08 : INFO] - Semaphore lock (smush) complete 
+[2020-07-01 15:59:08 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2020-07-01 15:59:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1167, Started on : July 01, 2020 03:55:09 
+[2020-07-01 15:59:08 : INFO] - 95 
+[2020-07-01 15:59:08 : INFO] - Backing up the original image - 2020/05/support-updraft-pre-smush-original.png 
+[2020-07-01 15:59:08 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2020/05/support.png.The file was compressed from 982 bytes to 982 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:59:08 : INFO] - Completed processing task with ID : 68, and type 'smush' 
+[2020-07-01 15:59:08 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2020-07-01 15:59:08 : INFO] - Re_Smush_It_Task - Attachment ID : 179, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:59:08 : INFO] - 95 
+[2020-07-01 15:59:08 : INFO] - Backing up the original image - 2017/06/support-free-img-updraft-pre-smush-original.png 
+[2020-07-01 15:59:08 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/support-free-img.png.The file was compressed from 689 bytes to 689 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 15:59:08 : INFO] - Completed processing task with ID : 108, and type 'smush' 
+[2020-07-01 15:59:08 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2020-07-01 15:59:08 : INFO] - Re_Smush_It_Task - Attachment ID : 177, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:59:08 : INFO] - 95 
+[2020-07-01 15:59:09 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:59:09 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2020-07-01 15:59:09 : INFO] - Re_Smush_It_Task - Attachment ID : 176, Started on : July 01, 2020 03:55:10 
+[2020-07-01 15:59:09 : INFO] - 95 
+[2020-07-01 15:59:09 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 15:59:09 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-01 15:59:09 : INFO] - Semaphore (smush) unlocked 
+[2020-07-01 15:59:09 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2020-07-01 15:59:09 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-01 16:00:07 : INFO] - 
+ 
+[2020-07-01 16:00:07 : INFO] - Header for logs at time:  Wed, 01 Jul 2020 16:00:07 +0000 on https://dsswebdevelops.in 
+[2020-07-01 16:00:07 : INFO] - WP: 5.4.2 
+[2020-07-01 16:00:07 : INFO] - PHP: 7.2.29 (litespeed, Linux lt-bnk-web337.main-hosting.eu 3.10.0-962.3.2.lve1.5.26.3.el7.x86_64 #1 SMP Wed Aug 14 08:29:59 EDT 2019 x86_64) 
+[2020-07-01 16:00:07 : INFO] - MySQL: 5.5.5 
+[2020-07-01 16:00:07 : INFO] - WPLANG: en_US 
+[2020-07-01 16:00:07 : INFO] - Server: LiteSpeed 
+[2020-07-01 16:00:07 : INFO] - Outbound connections: N 
+[2020-07-01 16:00:07 : INFO] - safe_mode: 0 
+[2020-07-01 16:00:07 : INFO] - max_execution_time: 60 
+[2020-07-01 16:00:07 : INFO] - memory_limit: 128M (used: 10.7M | 12M) 
+[2020-07-01 16:00:07 : INFO] - multisite: N 
+[2020-07-01 16:00:07 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-07-01 16:00:07 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-07-01 16:00:07 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 16:00:07 
+[2020-07-01 16:00:07 : INFO] - Semaphore lock (smush) complete 
+[2020-07-01 16:00:07 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2020-07-01 16:00:07 : INFO] - Re_Smush_It_Task - Attachment ID : 177, Started on : July 01, 2020 03:55:10 
+[2020-07-01 16:00:07 : INFO] - 95 
+[2020-07-01 16:00:07 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-07-01 16:00:07 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2020-07-01 16:00:07 : INFO] - Re_Smush_It_Task - Attachment ID : 176, Started on : July 01, 2020 03:55:10 
+[2020-07-01 16:00:07 : INFO] - 95 
+[2020-07-01 16:00:08 : INFO] - Backing up the original image - 2017/06/cart-free-img-updraft-pre-smush-original.png 
+[2020-07-01 16:00:08 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/cart-free-img.png.The file was compressed from 606 bytes to 606 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 16:00:08 : INFO] - Completed processing task with ID : 110, and type 'smush' 
+[2020-07-01 16:00:08 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-01 16:00:08 : INFO] - Semaphore (smush) unlocked 
+[2020-07-01 16:00:08 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-07-01 16:00:08 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-01 16:01:07 : INFO] - 
+ 
+[2020-07-01 16:01:07 : INFO] - Header for logs at time:  Wed, 01 Jul 2020 16:01:07 +0000 on https://dsswebdevelops.in 
+[2020-07-01 16:01:07 : INFO] - WP: 5.4.2 
+[2020-07-01 16:01:07 : INFO] - PHP: 7.2.29 (litespeed, Linux lt-bnk-web337.main-hosting.eu 3.10.0-962.3.2.lve1.5.26.3.el7.x86_64 #1 SMP Wed Aug 14 08:29:59 EDT 2019 x86_64) 
+[2020-07-01 16:01:07 : INFO] - MySQL: 5.5.5 
+[2020-07-01 16:01:07 : INFO] - WPLANG: en_US 
+[2020-07-01 16:01:07 : INFO] - Server: LiteSpeed 
+[2020-07-01 16:01:07 : INFO] - Outbound connections: N 
+[2020-07-01 16:01:07 : INFO] - safe_mode: 0 
+[2020-07-01 16:01:07 : INFO] - max_execution_time: 60 
+[2020-07-01 16:01:07 : INFO] - memory_limit: 128M (used: 10.7M | 12M) 
+[2020-07-01 16:01:07 : INFO] - multisite: N 
+[2020-07-01 16:01:07 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-07-01 16:01:07 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-07-01 16:01:07 : INFO] - Set semaphore last lock (smush) time to 2020-07-01 16:01:07 
+[2020-07-01 16:01:07 : INFO] - Semaphore lock (smush) complete 
+[2020-07-01 16:01:07 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2020-07-01 16:01:07 : INFO] - Re_Smush_It_Task - Attachment ID : 177, Started on : July 01, 2020 03:55:10 
+[2020-07-01 16:01:07 : INFO] - 95 
+[2020-07-01 16:01:07 : INFO] - Backing up the original image - 2017/06/editing-free-img-updraft-pre-smush-original.png 
+[2020-07-01 16:01:08 : INFO] - Successfully optimized the image - /home/u641357544/domains/dsswebdevelops.in/public_html/wp-content/uploads/2017/06/editing-free-img.png.The file was compressed from 891 bytes to 891 bytes saving 0 percent using WP-Optimize 
+[2020-07-01 16:01:08 : INFO] - Completed processing task with ID : 109, and type 'smush' 
+[2020-07-01 16:01:08 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-01 16:01:08 : INFO] - Semaphore (smush) unlocked 
+[2020-07-01 16:01:08 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-07-01 16:01:08 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-01 16:01:08 : INFO] - Cleaning up tasks of type (smush). A total of 111 tasks will be deleted. 

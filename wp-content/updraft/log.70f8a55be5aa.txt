@@ -1,0 +1,33 @@
+0000.001 (0) Opened log file at time: Fri, 12 Jun 2020 07:23:09 +0000 on http://dsswebdevelops.ezyro.com
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 42.5M | 24.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.011 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.013 (0) Semaphore (fd, wpyn_options) being initialised
+0000.015 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.016 (0) Set semaphore last lock (fd) time to 2020-06-12 07:23:09
+0000.017 (0) Semaphore lock (fd) complete
+0000.019 (0) Backup run: resumption=0, nonce=70f8a55be5aa, file_nonce=70f8a55be5aa begun at=1591946589 (0s ago), job type=backup
+0000.021 (0) Scheduling a resumption (1) after 300 seconds (1591946889) in case this run gets aborted
+0000.031 (0) Checking if we have a zip executable available
+0000.033 (0) Creation of backups of directories: beginning
+0000.036 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0013.370 (0) Total entities for the zip file: 565 directories, 2985 files (0 skipped as non-modified), 56.1 MB
+0013.376 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0013.724 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 100 files added (on-disk size: 95.8 KB)
+0014.273 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 200 files added (on-disk size: 95.8 KB)
+0014.741 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 300 files added (on-disk size: 95.8 KB)
+0015.155 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 400 files added (on-disk size: 95.8 KB)
+0015.357 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 500 files added (on-disk size: 95.8 KB)
+0015.363 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.9 MB, 2985 files batched, 501 (502) added so far); re-opening (prior size: 95.8 KB)
+0028.634 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 600 files added (on-disk size: 4158.6 KB)
+0030.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 99 (601) files added so far); re-opening (prior size: 4158.6 KB)
+0042.846 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 700 files added (on-disk size: 4638.7 KB)
+0044.497 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 172 (773) files added so far); re-opening (prior size: 4638.7 KB)
+0057.088 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 800 files added (on-disk size: 5001 KB)
+0060.338 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 28 (801) files added so far); re-opening (prior size: 5001 KB)
+0067.791 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 900 files added (on-disk size: 5084.4 KB)
+0068.813 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 1000 files added (on-disk size: 5084.4 KB)
+0069.006 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 1100 files added (on-disk size: 5084.4 KB)
+0069.179 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 1200 files added (on-disk size: 5084.4 KB)
+0069.360 (0) Zip: backup_2020-06-12-0723_DSS_Webdevelops_70f8a55be5aa-plugins.zip.tmp: 1300 files added (on-disk size: 5084.4 KB)
+0069.364 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.3 MB, 2985 files batched, 501 (1302) added so far); re-opening (prior size: 5084.4 KB)

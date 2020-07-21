@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Join.chat CTA Extras\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-01 19:01+0200\n"
+"PO-Revision-Date: 2020-05-04 11:23+0200\n"
+"Last-Translator: Pacotole <pacotole@crea.me>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Loco-Version: 2.3.1; wp-5.3-RC1\n"
+
+#: joinchat-plus.php:70
+msgid ""
+"You need to install and activate <strong>Join.chat</strong> in order to use "
+"<strong>Join.chat +</strong>"
+msgstr ""
+"Debes instalar y activar <strong>Join.chat</strong> para poder usar "
+"<strong>Join.chat +</strong>"
+
+#: joinchat-plus.php:89
+msgid ""
+"<strong>Join.chat +</strong> require a newer version of <strong>Join.chat</"
+"strong>."
+msgstr ""
+"<strong>Join.chat +</strong> requiere una versión más reciente de "
+"<strong>Join.chat</strong>."
+
+#: joinchat-plus.php:90 joinchat-plus.php:110
+msgid "Update now"
+msgstr "Actualizar ahora"
+
+#: joinchat-plus.php:109
+msgid ""
+"<strong>Join.chat +</strong> require to update WAme to the new <strong>Join."
+"chat</strong>."
+msgstr ""
+"<strong>Join.chat +</strong> requiere actualizar WAme al nuevo <strong>Join."
+"chat</strong>."
+
+#. Name of the plugin
+msgid "Join.chat +"
+msgstr "Join.chat +"
+
+#. Description of the plugin
+msgid "Advanced features for <strong>Join.chat</strong>."
+msgstr "Características avanzadas para <strong>Join.chat</strong>."
+
+#. URI of the plugin
+msgid "https://joinchat.chat/en/addons/plus/"
+msgstr "https://joinchat.chat/en/addons/plus/"
+
+#. Author of the plugin
+msgid "Creame"
+msgstr "Creame"
+
+#. Author URI of the plugin
+msgid "https://crea.me"
+msgstr "https://crea.me"

@@ -1,0 +1,14 @@
+{
+  "1.1.0": {
+    "description": "Allowed WhatsApp logo in Chat Window header",
+    "requires": "3.0.1",
+    "tested": "5.4.1",
+    "upgrade_notice": ""
+  },
+  "1.0.0": {
+    "description": "First version",
+    "requires": "3.0.1",
+    "tested": "5.4",
+    "upgrade_notice": ""
+  }
+}

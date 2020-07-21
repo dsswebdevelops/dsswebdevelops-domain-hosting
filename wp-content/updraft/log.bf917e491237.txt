@@ -1,0 +1,509 @@
+0000.001 (0) Opened log file at time: Fri, 12 Jun 2020 08:17:53 +0000 on http://dsswebdevelops.ezyro.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 40.6M | 12.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.010 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.016 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.017 (0) Semaphore (fd, wpyn_options) was stuck, set lock time to 2020-06-12 08:17:53
+0000.018 (0) Semaphore (fd, wpyn_options) reset to 1
+0000.019 (0) Set semaphore last lock (fd) time to 2020-06-12 08:17:53
+0000.020 (0) Semaphore lock (fd) complete
+0000.023 (0) Backup run: resumption=0, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (0s ago), job type=backup
+0000.024 (0) Scheduling a resumption (1) after 300 seconds (1591950173) in case this run gets aborted
+0000.035 (0) Checking if we have a zip executable available
+0000.036 (0) Creation of backups of directories: beginning
+0000.040 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0010.909 (0) Total entities for the zip file: 509 directories, 2641 files (0 skipped as non-modified), 49.8 MB
+0010.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0011.352 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 100 files added (on-disk size: 87.2 KB)
+0011.791 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 200 files added (on-disk size: 87.2 KB)
+0011.997 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 300 files added (on-disk size: 87.2 KB)
+0012.206 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 400 files added (on-disk size: 87.2 KB)
+0012.402 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 500 files added (on-disk size: 87.2 KB)
+0012.406 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.9 MB, 2641 files batched, 501 (502) added so far); re-opening (prior size: 87.2 KB)
+0017.259 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 600 files added (on-disk size: 4150 KB)
+0019.083 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 700 files added (on-disk size: 4150 KB)
+0019.296 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 800 files added (on-disk size: 4150 KB)
+0019.502 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 900 files added (on-disk size: 4150 KB)
+0019.633 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.1 MB, 465 (967) files added so far); re-opening (prior size: 4150 KB)
+0026.373 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1000 files added (on-disk size: 5716 KB)
+0029.486 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 34 (1001) files added so far); re-opening (prior size: 5716 KB)
+0037.394 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1100 files added (on-disk size: 5908.1 KB)
+0040.506 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.4 MB, 100 (1101) files added so far); re-opening (prior size: 5908.1 KB)
+0057.819 (0) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1200 files added (on-disk size: 8678.1 KB)
+0060.511 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 100 (1201) files added so far); re-opening (prior size: 8678.1 KB)
+0301.527 (1) Opened log file at time: Fri, 12 Jun 2020 08:22:54 +0000 on http://dsswebdevelops.ezyro.com
+0301.529 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.4M | 4.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+0301.530 (1) Free space on disk containing Updraft's temporary directory: Unknown
+0301.531 (1) Backup run: resumption=1, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (301s ago), job type=backup, previous check-in=57.4s
+0301.533 (1) Scheduling a resumption (2) after 300 seconds (1591950474) in case this run gets aborted
+0301.545 (1) Checking if we have a zip executable available
+0301.546 (1) Creation of backups of directories: had begun; will resume
+0301.549 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0301.553 (1) File exists (/home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/updraft/backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1591949933, time_now=1591950174, diff=241)
+0301.569 (1) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: Zip file already exists, with 1101 files
+0312.255 (1) Total entities for the zip file: 509 directories, 2641 files (0 skipped as non-modified), 49.8 MB
+0312.382 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 100 files added (on-disk size: 8678.1 KB)
+0312.523 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 200 files added (on-disk size: 8678.1 KB)
+0312.639 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 300 files added (on-disk size: 8678.1 KB)
+0312.742 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 400 files added (on-disk size: 8678.1 KB)
+0312.849 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 500 files added (on-disk size: 8678.1 KB)
+0312.969 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 600 files added (on-disk size: 8678.1 KB)
+0313.084 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 700 files added (on-disk size: 8678.1 KB)
+0313.183 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 800 files added (on-disk size: 8678.1 KB)
+0313.298 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 900 files added (on-disk size: 8678.1 KB)
+0313.403 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1000 files added (on-disk size: 8678.1 KB)
+0313.518 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1100 files added (on-disk size: 8678.1 KB)
+0313.716 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1200 files added (on-disk size: 8678.1 KB)
+0313.912 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1300 files added (on-disk size: 8678.1 KB)
+0314.099 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1400 files added (on-disk size: 8678.1 KB)
+0314.668 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1500 files added (on-disk size: 8678.1 KB)
+0315.279 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1600 files added (on-disk size: 8678.1 KB)
+0315.285 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.7 MB, 2641 files batched, 501 (501) added so far); re-opening (prior size: 8678.1 KB)
+0338.479 (1) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1700 files added (on-disk size: 10904 KB)
+0346.696 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 99 (600) files added so far); re-opening (prior size: 10904 KB)
+0602.795 (2) Opened log file at time: Fri, 12 Jun 2020 08:27:56 +0000 on http://dsswebdevelops.ezyro.com
+0602.797 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.4M | 18.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+0602.797 (2) Free space on disk containing Updraft's temporary directory: Unknown
+0602.799 (2) Backup run: resumption=2, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (603s ago), job type=backup, previous check-in=62.2s
+0602.800 (2) Scheduling a resumption (3) after 300 seconds (1591950776) in case this run gets aborted
+0602.811 (2) Checking if we have a zip executable available
+0602.812 (2) Creation of backups of directories: had begun; will resume
+0602.815 (2) Beginning creation of dump of plugins (split every: 400 MB)
+0602.819 (2) File exists (/home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/updraft/backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1591950237, time_now=1591950476, diff=239)
+0602.838 (2) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: Zip file already exists, with 1701 files
+0613.752 (2) Total entities for the zip file: 509 directories, 2641 files (0 skipped as non-modified), 49.8 MB
+0613.871 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 100 files added (on-disk size: 11033 KB)
+0613.994 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 200 files added (on-disk size: 11033 KB)
+0614.092 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 300 files added (on-disk size: 11033 KB)
+0614.193 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 400 files added (on-disk size: 11033 KB)
+0614.288 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 500 files added (on-disk size: 11033 KB)
+0614.383 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 600 files added (on-disk size: 11033 KB)
+0614.480 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 700 files added (on-disk size: 11033 KB)
+0614.569 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 800 files added (on-disk size: 11033 KB)
+0614.665 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 900 files added (on-disk size: 11033 KB)
+0614.763 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1000 files added (on-disk size: 11033 KB)
+0614.874 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1100 files added (on-disk size: 11033 KB)
+0614.963 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1200 files added (on-disk size: 11033 KB)
+0615.069 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1300 files added (on-disk size: 11033 KB)
+0615.164 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1400 files added (on-disk size: 11033 KB)
+0615.323 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1500 files added (on-disk size: 11033 KB)
+0615.484 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1600 files added (on-disk size: 11033 KB)
+0615.649 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1700 files added (on-disk size: 11033 KB)
+0615.989 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1800 files added (on-disk size: 11033 KB)
+0616.295 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1900 files added (on-disk size: 11033 KB)
+0616.619 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2000 files added (on-disk size: 11033 KB)
+0617.295 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2100 files added (on-disk size: 11033 KB)
+0617.794 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2200 files added (on-disk size: 11033 KB)
+0617.812 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 2641 files batched, 501 (501) added so far); re-opening (prior size: 11033 KB)
+0633.235 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2300 files added (on-disk size: 11963.6 KB)
+0638.345 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 99 (600) files added so far); re-opening (prior size: 11963.6 KB)
+0652.989 (2) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2400 files added (on-disk size: 12075.2 KB)
+0658.840 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 100 (700) files added so far); re-opening (prior size: 12075.2 KB)
+0904.085 (3) Opened log file at time: Fri, 12 Jun 2020 08:32:57 +0000 on http://dsswebdevelops.ezyro.com
+0904.086 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.4M | 10.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+0904.087 (3) Free space on disk containing Updraft's temporary directory: Unknown
+0904.088 (3) Backup run: resumption=3, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (904s ago), job type=backup, previous check-in=50s
+0904.090 (3) Scheduling a resumption (4) after 300 seconds (1591951077) in case this run gets aborted
+0904.104 (3) Checking if we have a zip executable available
+0904.105 (3) Creation of backups of directories: had begun; will resume
+0904.107 (3) Beginning creation of dump of plugins (split every: 400 MB)
+0904.111 (3) Deleting old temporary file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp.L6EHMV
+0904.115 (3) File exists (/home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/updraft/backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1591950532, time_now=1591950777, diff=245)
+0904.136 (3) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: Zip file already exists, with 2301 files
+0914.576 (3) Total entities for the zip file: 509 directories, 2641 files (0 skipped as non-modified), 49.8 MB
+0914.688 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 100 files added (on-disk size: 12075.2 KB)
+0914.804 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 200 files added (on-disk size: 12075.2 KB)
+0914.898 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 300 files added (on-disk size: 12075.2 KB)
+0914.993 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 400 files added (on-disk size: 12075.2 KB)
+0915.091 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 500 files added (on-disk size: 12075.2 KB)
+0915.209 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 600 files added (on-disk size: 12075.2 KB)
+0915.334 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 700 files added (on-disk size: 12075.2 KB)
+0915.448 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 800 files added (on-disk size: 12075.2 KB)
+0915.568 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 900 files added (on-disk size: 12075.2 KB)
+0915.690 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1000 files added (on-disk size: 12075.2 KB)
+0915.828 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1100 files added (on-disk size: 12075.2 KB)
+0915.952 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1200 files added (on-disk size: 12075.2 KB)
+0916.077 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1300 files added (on-disk size: 12075.2 KB)
+0916.193 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1400 files added (on-disk size: 12075.2 KB)
+0916.365 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1500 files added (on-disk size: 12075.2 KB)
+0916.538 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1600 files added (on-disk size: 12075.2 KB)
+0916.854 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1700 files added (on-disk size: 12075.2 KB)
+0917.205 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1800 files added (on-disk size: 12075.2 KB)
+0917.496 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 1900 files added (on-disk size: 12075.2 KB)
+0917.818 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2000 files added (on-disk size: 12075.2 KB)
+0918.147 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2100 files added (on-disk size: 12075.2 KB)
+0918.291 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2200 files added (on-disk size: 12075.2 KB)
+0918.473 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2300 files added (on-disk size: 12075.2 KB)
+0918.721 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2400 files added (on-disk size: 12075.2 KB)
+0918.954 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2500 files added (on-disk size: 12075.2 KB)
+0919.157 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp: 2600 files added (on-disk size: 12075.2 KB)
+0939.904 (3) Created plugins zip (0) - 17006.9 KB in 35.8 s (475.3 KB/s) (sha1: 18d8f0486943a293f8bb867ee261159dcb7052a2, sha256: 47c611be173602dc041939a5c92ae3eb835b90dfc2eb30907e7bf19819a1073d)
+0948.999 (3) Deleting old temporary file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip.tmp.xXwNAp
+0949.012 (3) Beginning creation of dump of themes (split every: 400 MB)
+0952.068 (3) Total entities for the zip file: 179 directories, 695 files (0 skipped as non-modified), 8.9 MB
+0952.082 (3) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0952.510 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 100 files added (on-disk size: 28.2 KB)
+0952.890 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 200 files added (on-disk size: 28.2 KB)
+0953.264 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 300 files added (on-disk size: 28.2 KB)
+0953.491 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 400 files added (on-disk size: 28.2 KB)
+0953.737 (3) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 500 files added (on-disk size: 28.2 KB)
+0953.743 (3) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 695 files batched, 501 (502) added so far); re-opening (prior size: 28.2 KB)
+1206.700 (4) Opened log file at time: Fri, 12 Jun 2020 08:38:00 +0000 on http://dsswebdevelops.ezyro.com
+1206.701 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.4M | 4.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+1206.702 (4) Free space on disk containing Updraft's temporary directory: Unknown
+1206.704 (4) Backup run: resumption=4, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (1207s ago), job type=backup, previous check-in=48s
+1206.705 (4) Scheduling a resumption (5) after 300 seconds (1591951380) in case this run gets aborted
+1206.716 (4) Checking if we have a zip executable available
+1206.717 (4) Creation of backups of directories: had begun; will resume
+1206.721 (4) Beginning creation of dump of plugins (split every: 400 MB)
+1206.723 (4) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: this file has already been created (age: 268 s)
+1206.738 (4) Beginning creation of dump of themes (split every: 400 MB)
+1206.743 (4) File exists (/home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/updraft/backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1591950827, time_now=1591951080, diff=253)
+1206.756 (4) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: Zip file already exists, with 1 files
+1209.646 (4) Total entities for the zip file: 179 directories, 695 files (0 skipped as non-modified), 8.9 MB
+1209.871 (4) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 100 files added (on-disk size: 28.2 KB)
+1210.084 (4) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 200 files added (on-disk size: 28.2 KB)
+1210.294 (4) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 300 files added (on-disk size: 28.2 KB)
+1210.773 (4) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 400 files added (on-disk size: 28.2 KB)
+1211.289 (4) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 500 files added (on-disk size: 28.2 KB)
+1211.295 (4) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 695 files batched, 501 (501) added so far); re-opening (prior size: 28.2 KB)
+1223.738 (4) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp: 600 files added (on-disk size: 2918.6 KB)
+1239.472 (4) Created themes zip (0) - 3522.8 KB in 32.7 s (107.7 KB/s) (sha1: 5ccadc6d03f6f338a5dcb84d9a8a36f8628e4f6e, sha256: 37a28681219cbb170e1a6e9f5ea5b346c52af11c6cdd78f56e71af97a21acb6b)
+1242.043 (4) Deleting old temporary file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip.tmp.flFctB
+1242.048 (4) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+1242.048 (4) Looking for candidates to backup in: /home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/uploads
+1242.050 (4) finding files: 2020: adding to list (1)
+1242.050 (4) finding files: 2019: adding to list (2)
+1242.051 (4) finding files: 2017: adding to list (3)
+1242.051 (4) finding files: elementor: adding to list (4)
+1242.052 (4) finding files: astra-sites: adding to list (5)
+1242.052 (4) Beginning creation of dump of uploads (split every: 400 MB)
+1242.800 (4) Total entities for the zip file: 15 directories, 284 files (0 skipped as non-modified), 26.7 MB
+1242.953 (4) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+1243.033 (4) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 284 files batched, 153 (153) added so far); re-opening (prior size: 0 KB)
+32682.767 (5) Opened log file at time: Fri, 12 Jun 2020 17:22:36 +0000 on http://dsswebdevelops.ezyro.com
+32682.769 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.5M | 4.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+32685.378 (5) Free space on disk containing Updraft's temporary directory: Unknown
+32685.380 (5) Backup run: resumption=5, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (32685s ago), job type=backup, previous check-in=32.7s
+32685.381 (5) Long time past since expected resumption time: approx expected=1591951412.8, now=1591982556.1, diff=31143.4
+32685.382 (5) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+32685.384 (5) Scheduling a resumption (6) after 300 seconds (1591982858) in case this run gets aborted
+32686.120 (5) Checking if we have a zip executable available
+32686.134 (5) Creation of backups of directories: had begun; will resume
+32686.139 (5) Beginning creation of dump of plugins (split every: 400 MB)
+32686.141 (5) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: this file has already been created (age: 31747 s)
+32686.160 (5) Beginning creation of dump of themes (split every: 400 MB)
+32686.172 (5) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: this file has already been created (age: 31447 s)
+32686.192 (5) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+32686.193 (5) Looking for candidates to backup in: /home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/uploads
+32686.194 (5) finding files: 2020: adding to list (1)
+32686.194 (5) finding files: 2019: adding to list (2)
+32686.195 (5) finding files: 2017: adding to list (3)
+32686.195 (5) finding files: elementor: adding to list (4)
+32686.196 (5) finding files: astra-sites: adding to list (5)
+32686.196 (5) Beginning creation of dump of uploads (split every: 400 MB)
+32686.199 (5) Deleting old temporary file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp.tBIYVl
+32686.209 (5) File exists (/home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/updraft/backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1591951116, time_now=1591982559, diff=31443)
+32686.217 (5) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp
+32687.387 (5) Total entities for the zip file: 15 directories, 284 files (0 skipped as non-modified), 26.7 MB
+32687.563 (5) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+32688.268 (5) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 284 files batched, 153 (153) added so far); re-opening (prior size: 0 KB)
+33076.018 (6) Opened log file at time: Fri, 12 Jun 2020 17:29:09 +0000 on http://dsswebdevelops.ezyro.com
+33076.020 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.4M | 10.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+33076.020 (6) Free space on disk containing Updraft's temporary directory: Unknown
+33076.022 (6) Backup run: resumption=6, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (33076s ago), job type=backup
+33076.023 (6) Scheduling a resumption (7) after 300 seconds (1591983249) in case this run gets aborted
+33076.035 (6) Checking if we have a zip executable available
+33076.035 (6) Creation of backups of directories: had begun; will resume
+33076.039 (6) Beginning creation of dump of plugins (split every: 400 MB)
+33076.041 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: this file has already been created (age: 32137 s)
+33076.055 (6) Beginning creation of dump of themes (split every: 400 MB)
+33076.056 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: this file has already been created (age: 31837 s)
+33076.071 (6) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+33076.071 (6) Looking for candidates to backup in: /home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/uploads
+33076.073 (6) finding files: 2020: adding to list (1)
+33076.073 (6) finding files: 2019: adding to list (2)
+33076.074 (6) finding files: 2017: adding to list (3)
+33076.074 (6) finding files: elementor: adding to list (4)
+33076.075 (6) finding files: astra-sites: adding to list (5)
+33076.075 (6) Beginning creation of dump of uploads (split every: 400 MB)
+33076.080 (6) File exists (/home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/updraft/backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1591982561, time_now=1591982949, diff=388)
+33076.089 (6) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp
+33076.821 (6) Total entities for the zip file: 15 directories, 284 files (0 skipped as non-modified), 26.7 MB
+33076.979 (6) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+33077.074 (6) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 284 files batched, 153 (153) added so far); re-opening (prior size: 0 KB)
+33119.723 (6) A useful amount of data was added after this amount of zip processing: 44.1 s (normalised: 44 s, rate: 582 KB/s)
+33123.621 (6) Zip: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp: 200 files added (on-disk size: 25684.3 KB)
+33166.448 (6) Created uploads zip (0) - 27279.3 KB in 90.4 s (301.9 KB/s) (sha1: 6962fd9970807803f82a8b7564ae0e510cea80ff, sha256: 5aae59534d7a00a7bce00236e6a6e7929ce0334aecadc12d23a219ae5d6eea76)
+33169.310 (6) Deleting old temporary file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip.tmp.fw2ZK0
+33169.319 (6) Beginning backup of other directories found in the content directory (index: 0)
+33169.319 (6) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+33169.320 (6) Looking for candidates to backup in: /home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content
+33169.321 (6) finding files: plugins: skipping: this is the plugins directory
+33169.321 (6) finding files: themes: skipping: this is the themes directory
+33169.322 (6) finding files: updraft: skipping: this is the updraft directory
+33169.322 (6) finding files: upgrade: skipping: excluded by options
+33169.323 (6) finding files: index.php: adding to list (1)
+33169.323 (6) finding files: uploads: skipping: this is the uploads directory
+33169.337 (6) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+33169.368 (6) Created others zip (0) - 0.1 KB in 0 s (4.2 KB/s) (sha1: 76f91e7e5f3aa0f797d8234f4569c2faca7c44d1, sha256: 3dd5f2faa2eb1f358ce70ae1b4904fc58c06f6de62da1a960561cebd03b167cb)
+33169.376 (6) Saving backup status to database (elements: 8)
+33169.579 (6) Resuming creation of database dump (WordPress DB)
+33169.598 (6) Table wpyn_options: Total expected rows (approximate): 303
+33169.724 (6) Table wpyn_options: Total rows added: 298 in 0.13 seconds
+33169.726 (6) Table wpyn_options: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_options.table.gz - 279.3 KB)
+33169.731 (6) Table wpyn_users: Total expected rows (approximate): 1
+33169.737 (6) Table wpyn_users: Total rows added: 1 in 0.01 seconds
+33169.738 (6) Table wpyn_users: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_users.table.gz - 0.6 KB)
+33169.743 (6) Table wpyn_usermeta: Total expected rows (approximate): 27
+33169.748 (6) Table wpyn_usermeta: Total rows added: 27 in 0.00 seconds
+33169.749 (6) Table wpyn_usermeta: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_usermeta.table.gz - 1.7 KB)
+33169.754 (6) Table wpyn_actionscheduler_actions: Total expected rows (approximate): 24
+33169.762 (6) Table wpyn_actionscheduler_actions: Total rows added: 24 in 0.01 seconds
+33169.763 (6) Table wpyn_actionscheduler_actions: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_actions.table.gz - 1.4 KB)
+33169.768 (6) Table wpyn_actionscheduler_claims: Total expected rows (approximate): 0
+33169.773 (6) Table wpyn_actionscheduler_claims: Total rows added: 0 in 0.01 seconds
+33169.775 (6) Table wpyn_actionscheduler_claims: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_claims.table.gz - 0.4 KB)
+33169.779 (6) Table wpyn_actionscheduler_groups: Total expected rows (approximate): 2
+33169.784 (6) Table wpyn_actionscheduler_groups: Total rows added: 2 in 0.00 seconds
+33169.785 (6) Table wpyn_actionscheduler_groups: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_groups.table.gz - 0.4 KB)
+33169.806 (6) Table wpyn_actionscheduler_logs: Total expected rows (approximate): 70
+33169.812 (6) Table wpyn_actionscheduler_logs: Total rows added: 70 in 0.01 seconds
+33169.813 (6) Table wpyn_actionscheduler_logs: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_logs.table.gz - 1.2 KB)
+33169.818 (6) Table wpyn_commentmeta: Total expected rows (approximate): 0
+33169.822 (6) Table wpyn_commentmeta: Total rows added: 0 in 0.00 seconds
+33169.823 (6) Table wpyn_commentmeta: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_commentmeta.table.gz - 0.4 KB)
+33169.828 (6) Table wpyn_comments: Total expected rows (approximate): 2
+33169.833 (6) Table wpyn_comments: Total rows added: 2 in 0.00 seconds
+33169.834 (6) Table wpyn_comments: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_comments.table.gz - 0.9 KB)
+33169.847 (6) Table wpyn_links: Total expected rows (approximate): 0
+33169.851 (6) Table wpyn_links: Total rows added: 0 in 0.00 seconds
+33169.852 (6) Table wpyn_links: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_links.table.gz - 0.4 KB)
+33169.857 (6) Table wpyn_postmeta: Total expected rows (approximate): 702
+33169.918 (6) Table wpyn_postmeta: Total rows added: 702 in 0.06 seconds
+33169.920 (6) Table wpyn_postmeta: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_postmeta.table.gz - 110.4 KB)
+33169.924 (6) Table wpyn_posts: Total expected rows (approximate): 145
+33169.940 (6) Table wpyn_posts: Total rows added: 145 in 0.02 seconds
+33169.942 (6) Table wpyn_posts: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_posts.table.gz - 19.1 KB)
+33169.946 (6) Table wpyn_term_relationships: Total expected rows (approximate): 6
+33169.950 (6) Table wpyn_term_relationships: Total rows added: 6 in 0.00 seconds
+33169.951 (6) Table wpyn_term_relationships: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_term_relationships.table.gz - 0.4 KB)
+33169.956 (6) Table wpyn_term_taxonomy: Total expected rows (approximate): 3
+33169.960 (6) Table wpyn_term_taxonomy: Total rows added: 3 in 0.00 seconds
+33169.961 (6) Table wpyn_term_taxonomy: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_term_taxonomy.table.gz - 0.5 KB)
+33169.975 (6) Table wpyn_termmeta: Total expected rows (approximate): 2
+33169.979 (6) Table wpyn_termmeta: Total rows added: 2 in 0.00 seconds
+33169.980 (6) Table wpyn_termmeta: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_termmeta.table.gz - 0.4 KB)
+33169.985 (6) Table wpyn_terms: Total expected rows (approximate): 3
+33169.990 (6) Table wpyn_terms: Total rows added: 3 in 0.00 seconds
+33169.991 (6) Table wpyn_terms: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_terms.table.gz - 0.4 KB)
+33170.004 (6) Table wpyn_wpforms_tasks_meta: Total expected rows (approximate): 11
+33170.009 (6) Table wpyn_wpforms_tasks_meta: Total rows added: 11 in 0.00 seconds
+33170.010 (6) Table wpyn_wpforms_tasks_meta: finishing file (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_wpforms_tasks_meta.table.gz - 0.6 KB)
+33170.014 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_options.table.gz (1/17): adding to final database dump
+33170.106 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_users.table.gz (2/17): adding to final database dump
+33170.107 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_usermeta.table.gz (3/17): adding to final database dump
+33170.108 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_actions.table.gz (4/17): adding to final database dump
+33170.110 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_claims.table.gz (5/17): adding to final database dump
+33170.110 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_groups.table.gz (6/17): adding to final database dump
+33170.111 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_actionscheduler_logs.table.gz (7/17): adding to final database dump
+33170.113 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_commentmeta.table.gz (8/17): adding to final database dump
+33170.113 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_comments.table.gz (9/17): adding to final database dump
+33170.114 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_links.table.gz (10/17): adding to final database dump
+33170.115 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_postmeta.table.gz (11/17): adding to final database dump
+33170.156 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_posts.table.gz (12/17): adding to final database dump
+33170.163 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_term_relationships.table.gz (13/17): adding to final database dump
+33170.164 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_term_taxonomy.table.gz (14/17): adding to final database dump
+33170.165 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_termmeta.table.gz (15/17): adding to final database dump
+33170.166 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_terms.table.gz (16/17): adding to final database dump
+33170.167 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db-table-wpyn_wpforms_tasks_meta.table.gz (17/17): adding to final database dump
+33170.199 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: finished writing out complete database file (400 KB)
+33170.214 (6) Total database tables backed up: 17 (backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz, size: 424226, sha1: 0eaa0510696676e6f690e9176e32d053ad74a587, sha256: f471aee7a64c1040d3ade891f32c5b42068630d071165de558689a8aa0244e05)
+33170.221 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+33170.222 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+33170.222 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+33170.223 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: others: This file has not yet been successfully uploaded: will queue
+33170.224 (6) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: db: This file has not yet been successfully uploaded: will queue
+33170.225 (6) Saving backup history. Total backup size: 47.1 MB
+33170.227 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+33170.229 (6) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+33170.231 (6) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6c88c4a2f613f70d9cc37fddf6b60fe4)
+33174.337 (6) Google Drive: id_from_path failure: exception (Google_Service_Exception): Error calling GET https://www.googleapis.com/drive/v2/about: (403) Rate Limit Exceeded (line: 110, file: /home/vol14_8/ezyro.com/ezyro_25687707/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+33174.352 (6) Google Drive: id_from_path: retry (2)
+33174.352 (6) PHP event: code E_WARNING: sleep() has been disabled for security reasons (line 191, wp-content/plugins/updraftplus/methods/googledrive.php)
+33175.362 (6) Google Drive: quota usage: used=246.3 MB, total=15360 MB, available=15113.7 MB
+33175.363 (6) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+33181.824 (6) Googledrive chunked upload: 6 % uploaded (1048576)
+33187.688 (6) Googledrive chunked upload: 12 % uploaded (2097152)
+33896.109 (7) Opened log file at time: Fri, 12 Jun 2020 17:42:49 +0000 on http://dsswebdevelops.ezyro.com
+33896.110 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.5M | 4.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+33896.111 (7) Free space on disk containing Updraft's temporary directory: Unknown
+33896.112 (7) Backup run: resumption=7, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (33896s ago), job type=backup, previous check-in=111.7s
+33896.114 (7) Scheduling a resumption (8) after 300 seconds (1591984069) in case this run gets aborted
+33896.124 (7) Checking if we have a zip executable available
+33896.125 (7) Creation of backups of directories: already finished
+33896.129 (7) Saving backup status to database (elements: 8)
+33896.136 (7) Database dump (WordPress DB): Creation was completed already
+33896.141 (7) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+33896.142 (7) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+33896.143 (7) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+33896.144 (7) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: others: This file has not yet been successfully uploaded: will queue
+33896.145 (7) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: db: This file has not yet been successfully uploaded: will queue
+33896.145 (7) Saving backup history. Total backup size: 47.1 MB
+33896.147 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+33896.148 (7) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+33896.149 (7) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6c88c4a2f613f70d9cc37fddf6b60fe4)
+33897.089 (7) Google Drive: quota usage: used=246.3 MB, total=15360 MB, available=15113.7 MB
+33897.101 (7) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+33897.162 (7) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: upload already began; attempting to resume from byte 2097151
+33900.348 (7) Googledrive chunked upload: 18.1 % uploaded (3145728)
+33907.976 (7) Googledrive chunked upload: 24.1 % uploaded (4194304)
+33914.519 (7) Googledrive chunked upload: 30.1 % uploaded (5242880)
+33919.714 (7) Googledrive chunked upload: 36.1 % uploaded (6291456)
+33925.269 (7) Googledrive chunked upload: 42.1 % uploaded (7340032)
+33931.117 (7) Googledrive chunked upload: 48.2 % uploaded (8388608)
+33936.517 (7) Googledrive chunked upload: 54.2 % uploaded (9437184)
+33942.040 (7) Googledrive chunked upload: 60.2 % uploaded (10485760)
+33947.908 (7) Googledrive chunked upload: 66.2 % uploaded (11534336)
+33953.401 (7) Googledrive chunked upload: 72.3 % uploaded (12582912)
+33959.269 (7) Googledrive chunked upload: 78.3 % uploaded (13631488)
+33964.824 (7) Googledrive chunked upload: 84.3 % uploaded (14680064)
+69636.229 (8) Opened log file at time: Sat, 13 Jun 2020 03:38:29 +0000 on http://dsswebdevelops.ezyro.com
+69636.231 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 33.5M | 8.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+69636.231 (8) Free space on disk containing Updraft's temporary directory: Unknown
+69636.250 (8) Backup run: resumption=8, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (69636s ago), job type=backup, previous check-in=68.7s
+69636.259 (8) Long time past since expected resumption time: approx expected=1591984138.2, now=1592019509.6, diff=35371.4
+69636.291 (8) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+69636.293 (8) Time passed on previous resumptions: 0:57.4 1:62.2 2:50 3:48 4:32.7 5:? 6:111.7 7:68.7  (known: 7, max: 112)
+69636.293 (8) Based on the available data, we are bringing the resumption interval down to: 164 seconds
+69636.295 (8) Scheduling a resumption (9) after 164 seconds (1592019673) in case this run gets aborted
+69636.306 (8) Checking if we have a zip executable available
+69636.317 (8) Creation of backups of directories: already finished
+69636.321 (8) Saving backup status to database (elements: 8)
+69636.336 (8) Database dump (WordPress DB): Creation was completed already
+69636.341 (8) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+69636.342 (8) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+69636.343 (8) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+69636.344 (8) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: others: This file has not yet been successfully uploaded: will queue
+69636.345 (8) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: db: This file has not yet been successfully uploaded: will queue
+69636.346 (8) Saving backup history. Total backup size: 47.1 MB
+69636.348 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+69636.349 (8) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+69636.350 (8) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6c88c4a2f613f70d9cc37fddf6b60fe4)
+69639.881 (8) Google Drive: quota usage: used=246.3 MB, total=15360 MB, available=15113.7 MB
+69639.883 (8) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+69640.004 (8) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: upload already began; attempting to resume from byte 15466495
+69644.575 (8) Googledrive chunked upload: 94.8 % uploaded (16515072)
+69650.047 (8) Googledrive chunked upload: 100 % uploaded (16515072)
+69650.051 (8) Google Drive: OK: Archive backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip uploaded in 10.17 seconds
+69650.052 (8) Recording as successfully uploaded: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip
+69650.057 (8) Deleting local file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: OK
+69650.363 (8) Google Drive: quota usage: used=246.3 MB, total=15360 MB, available=15113.7 MB
+69650.364 (8) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+69656.545 (8) Googledrive chunked upload: 29.1 % uploaded (1048576)
+69661.798 (8) Googledrive chunked upload: 58.1 % uploaded (2097152)
+69667.133 (8) Googledrive chunked upload: 87.2 % uploaded (3145728)
+69670.386 (8) Googledrive chunked upload: 100 % uploaded (3145728)
+69670.390 (8) Google Drive: OK: Archive backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip uploaded in 20.03 seconds
+69670.391 (8) Recording as successfully uploaded: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip
+69670.394 (8) Deleting local file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: OK
+69671.029 (8) Google Drive: quota usage: used=266.4 MB, total=15360 MB, available=15093.6 MB
+69671.030 (8) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+69674.633 (8) Googledrive chunked upload: 3.8 % uploaded (1048576)
+69677.854 (8) Googledrive chunked upload: 7.5 % uploaded (2097152)
+69681.020 (8) Googledrive chunked upload: 11.3 % uploaded (3145728)
+69684.346 (8) Googledrive chunked upload: 15 % uploaded (4194304)
+69687.576 (8) Googledrive chunked upload: 18.8 % uploaded (5242880)
+69690.745 (8) Googledrive chunked upload: 22.5 % uploaded (6291456)
+69693.943 (8) Googledrive chunked upload: 26.3 % uploaded (7340032)
+69696.222 (8) Googledrive chunked upload: 30 % uploaded (8388608)
+69698.483 (8) Googledrive chunked upload: 33.8 % uploaded (9437184)
+69701.541 (8) Googledrive chunked upload: 37.5 % uploaded (10485760)
+69704.715 (8) Googledrive chunked upload: 41.3 % uploaded (11534336)
+69707.873 (8) Googledrive chunked upload: 45 % uploaded (12582912)
+69711.011 (8) Googledrive chunked upload: 48.8 % uploaded (13631488)
+69714.234 (8) Googledrive chunked upload: 52.6 % uploaded (14680064)
+69717.380 (8) Googledrive chunked upload: 56.3 % uploaded (15728640)
+69720.533 (8) Googledrive chunked upload: 60.1 % uploaded (16777216)
+69723.741 (8) Googledrive chunked upload: 63.8 % uploaded (17825792)
+69726.965 (8) Googledrive chunked upload: 67.6 % uploaded (18874368)
+69800.950 (9) Opened log file at time: Sat, 13 Jun 2020 03:41:14 +0000 on http://dsswebdevelops.ezyro.com
+69810.121 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 34.9M | 4.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+69810.442 (9) Free space on disk containing Updraft's temporary directory: Unknown
+69810.444 (9) Backup run: resumption=9, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (69810s ago), job type=backup, previous check-in=90.7s
+69810.447 (9) Scheduling a resumption (10) after 164 seconds (1592019847) in case this run gets aborted
+69810.458 (9) Creation of backups of directories: already finished
+69810.463 (9) Saving backup status to database (elements: 8)
+69810.474 (9) Database dump (WordPress DB): Creation was completed already
+69810.484 (9) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: plugins: This file has already been successfully uploaded
+69810.484 (9) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: themes: This file has already been successfully uploaded
+69810.485 (9) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+69810.486 (9) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: others: This file has not yet been successfully uploaded: will queue
+69810.487 (9) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: db: This file has not yet been successfully uploaded: will queue
+69810.488 (9) Saving backup history. Total backup size: 47.1 MB
+69810.490 (9) Requesting upload of the files that have not yet been successfully uploaded (3)
+69810.490 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+69810.491 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6c88c4a2f613f70d9cc37fddf6b60fe4)
+69811.506 (9) Google Drive: quota usage: used=266.4 MB, total=15360 MB, available=15093.6 MB
+69811.508 (9) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+69811.593 (9) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: upload already began; attempting to resume from byte 19922943
+69814.795 (9) Googledrive chunked upload: 75.1 % uploaded (20971520)
+69819.273 (9) Googledrive chunked upload: 78.8 % uploaded (22020096)
+69822.434 (9) Googledrive chunked upload: 82.6 % uploaded (23068672)
+69825.544 (9) Googledrive chunked upload: 86.3 % uploaded (24117248)
+69831.286 (9) Googledrive chunked upload: 90.1 % uploaded (25165824)
+69835.069 (9) Googledrive chunked upload: 93.8 % uploaded (26214400)
+69838.185 (9) Googledrive chunked upload: 97.6 % uploaded (27262976)
+69842.476 (9) Googledrive chunked upload: 100 % uploaded (27262976)
+69842.507 (9) Google Drive: OK: Archive backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip uploaded in 31 seconds
+69842.548 (9) Recording as successfully uploaded: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip
+69842.611 (9) Deleting local file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: OK
+69842.924 (9) Google Drive: quota usage: used=293 MB, total=15360 MB, available=15067 MB
+69842.997 (9) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+69975.516 (10) Opened log file at time: Sat, 13 Jun 2020 03:44:08 +0000 on http://dsswebdevelops.ezyro.com
+69975.659 (10) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.6 (apache2handler, Linux freeweb19.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.47-87.0 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 34.9M | 32.5M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+69975.714 (10) Free space on disk containing Updraft's temporary directory: Unknown
+69975.801 (10) Backup run: resumption=10, nonce=bf917e491237, file_nonce=bf917e491237 begun at=1591949873 (69976s ago), job type=backup, previous check-in=43.2s
+69975.856 (10) Scheduling a resumption (11) after 164 seconds (1592020013) in case this run gets aborted
+69975.938 (10) Creation of backups of directories: already finished
+69975.975 (10) Saving backup status to database (elements: 8)
+69976.035 (10) Database dump (WordPress DB): Creation was completed already
+69976.093 (10) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-plugins.zip: plugins: This file has already been successfully uploaded
+69976.187 (10) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-themes.zip: themes: This file has already been successfully uploaded
+69976.708 (10) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-uploads.zip: uploads: This file has already been successfully uploaded
+69976.709 (10) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: others: This file has not yet been successfully uploaded: will queue
+69976.714 (10) backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: db: This file has not yet been successfully uploaded: will queue
+69976.719 (10) Saving backup history. Total backup size: 47.1 MB
+69976.722 (10) Requesting upload of the files that have not yet been successfully uploaded (2)
+69976.723 (10) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+69976.724 (10) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6c88c4a2f613f70d9cc37fddf6b60fe4)
+69977.600 (10) Google Drive: quota usage: used=293 MB, total=15360 MB, available=15067 MB
+69977.601 (10) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+69977.752 (10) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: upload appears to be already complete (HTTP code: 200)
+69977.752 (10) Google Drive: OK: Archive backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip uploaded in 0.15 seconds
+69977.753 (10) Recording as successfully uploaded: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip
+69977.755 (10) Deleting local file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-others.zip: OK
+69978.019 (10) Google Drive: quota usage: used=293 MB, total=15360 MB, available=15067 MB
+69978.067 (10) Google Drive: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: Attempting to upload to Google Drive (into folder id: 1vtCykTANWOB-m3YlL0bU09lPc53ldF0Q)
+69980.794 (10) Googledrive chunked upload: 100 % uploaded
+69987.216 (10) Google Drive: OK: Archive backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz uploaded in 9.11 seconds
+69987.255 (10) Recording as successfully uploaded: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz
+69987.279 (10) Deleting local file: backup_2020-06-12-0817_DSS_Webdevelops_bf917e491237-db.gz: OK
+69987.336 (10) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+69987.432 (10) Number of backup sets in history: 1; groups (db): 1
+69987.446 (10) Examining (for databases) backup set with group_id=0, nonce=bf917e491237, datestamp=1591949873 (Jun 12 2020 08:17:53)
+69987.460 (10) This backup set is the backup set just made, so will not be deleted.
+69987.516 (10) Number of backup sets in history: 1; groups (files): 1
+69987.517 (10) Examining (for files) backup set with nonce=bf917e491237, datestamp=1591949873 (Jun 12 2020 08:17:53)
+69987.614 (10) This backup set is the backup set just made, so will not be deleted.
+69987.615 (10) This backup set is the backup set just made, so will not be deleted.
+69988.042 (10) This backup set is the backup set just made, so will not be deleted.
+69988.042 (10) This backup set is the backup set just made, so will not be deleted.
+69988.042 (10) This backup set remains non-empty (f=1/d=1); will retain in history
+69988.043 (10) Retain: saving new backup history (sets now: 1) and finishing retain operation
+69988.046 (10) Resume backup (bf917e491237, 10): finish run
+69988.048 (10) There were no errors in the uploads, so the 'resume' event (11) is being unscheduled
+69988.051 (10) Fetching RSS news feed
+69988.262 (10) Fetched RSS news feed; result is a: WP_Error
+69988.443 (10) Sending email ('Files and database (Full backup)') report (attachments: 1, size: 59.5 KB) to: admin...
+69989.192 (10) The backup apparently succeeded (with warnings) and is now complete

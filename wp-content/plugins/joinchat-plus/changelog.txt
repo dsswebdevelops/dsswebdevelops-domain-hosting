@@ -1,0 +1,9 @@
+
+# Changelog
+
+## 1.1.0 2020-05-18
+- [+] Allow WhatsApp logo in Chat Window header
+
+## 1.0.0 2020-05-04
+- [+] First version
+- [+] Remove brand
